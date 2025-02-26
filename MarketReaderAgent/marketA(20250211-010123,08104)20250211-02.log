@@ -1,5 +1,0 @@
-2025/02/11-02:04:43.105,MarketReaderChannel.cpp,58,(debug),[channel], 0x0000000500000001, 10040, close
-2025/02/11-02:04:43.105,MarketReaderChannel.cpp,63,(debug),[channel], 0x0000000500000001, 10040, marketReader disable service
-2025/02/11-02:04:43.105,MarketReaderChannel.cpp,67,(debug),[channel], 0x0000000500000001, 10040, marketReader try reconnect
-2025/02/11-02:04:43.106,Session.cpp,515,(debug),[session], trying to reconnect after 5000 msec, id:500000001, this:0000000006060000, addr:(192.168.1.8:20400)
-2025/02/11-02:04:43.106,Session.cpp,694,(debug),[session], close called; don't remove session, id:500000001, this:0000000006060000, state:4
