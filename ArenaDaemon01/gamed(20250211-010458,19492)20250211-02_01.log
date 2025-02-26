@@ -1,0 +1,378 @@
+2025/02/11-02:00:10.662,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:293
+2025/02/11-02:00:10.663,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:293
+2025/02/11-02:00:10.663,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:293
+2025/02/11-02:00:10.663,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:293
+2025/02/11-02:00:10.663,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:293
+2025/02/11-02:00:10.663,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:293
+2025/02/11-02:00:20.670,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:294
+2025/02/11-02:00:20.670,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:294
+2025/02/11-02:00:20.670,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:294
+2025/02/11-02:00:20.670,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:294
+2025/02/11-02:00:20.670,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:294
+2025/02/11-02:00:20.670,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:294
+2025/02/11-02:00:30.657,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:295
+2025/02/11-02:00:30.657,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:295
+2025/02/11-02:00:30.657,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:295
+2025/02/11-02:00:30.657,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:295
+2025/02/11-02:00:30.657,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:295
+2025/02/11-02:00:30.657,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:295
+2025/02/11-02:00:40.665,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:296
+2025/02/11-02:00:40.665,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:296
+2025/02/11-02:00:40.665,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:296
+2025/02/11-02:00:40.665,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:296
+2025/02/11-02:00:40.666,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:296
+2025/02/11-02:00:40.666,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:296
+2025/02/11-02:00:50.661,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:297
+2025/02/11-02:00:50.661,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:297
+2025/02/11-02:00:50.661,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:297
+2025/02/11-02:00:50.661,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:297
+2025/02/11-02:00:50.662,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:297
+2025/02/11-02:00:50.662,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:297
+2025/02/11-02:01:00.660,WorldSerializedObject.cpp,3531,(debug),[guild-battle-field-wso], GuildBattleFieldWSO, elapsed:60000
+2025/02/11-02:01:00.660,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:298
+2025/02/11-02:01:00.660,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:298
+2025/02/11-02:01:00.660,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:298
+2025/02/11-02:01:00.660,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:298
+2025/02/11-02:01:00.660,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:298
+2025/02/11-02:01:00.660,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:298
+2025/02/11-02:01:10.659,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:299
+2025/02/11-02:01:10.659,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:299
+2025/02/11-02:01:10.659,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:299
+2025/02/11-02:01:10.660,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:299
+2025/02/11-02:01:10.660,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:299
+2025/02/11-02:01:10.660,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:299
+2025/02/11-02:01:20.676,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:300
+2025/02/11-02:01:20.676,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:300
+2025/02/11-02:01:20.676,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:300
+2025/02/11-02:01:20.676,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:300
+2025/02/11-02:01:20.676,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:300
+2025/02/11-02:01:20.676,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:300
+2025/02/11-02:01:30.657,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:301
+2025/02/11-02:01:30.657,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:301
+2025/02/11-02:01:30.657,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:301
+2025/02/11-02:01:30.658,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:301
+2025/02/11-02:01:30.658,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:301
+2025/02/11-02:01:30.658,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:301
+2025/02/11-02:01:40.670,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:302
+2025/02/11-02:01:40.670,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:302
+2025/02/11-02:01:40.670,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:302
+2025/02/11-02:01:40.670,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:302
+2025/02/11-02:01:40.670,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:302
+2025/02/11-02:01:40.671,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:302
+2025/02/11-02:01:50.670,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:303
+2025/02/11-02:01:50.670,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:303
+2025/02/11-02:01:50.670,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:303
+2025/02/11-02:01:50.670,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:303
+2025/02/11-02:01:50.670,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:303
+2025/02/11-02:01:50.670,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:303
+2025/02/11-02:02:00.657,WorldSerializedObject.cpp,3531,(debug),[guild-battle-field-wso], GuildBattleFieldWSO, elapsed:60000
+2025/02/11-02:02:00.657,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:304
+2025/02/11-02:02:00.657,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:304
+2025/02/11-02:02:00.657,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:304
+2025/02/11-02:02:00.657,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:304
+2025/02/11-02:02:00.657,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:304
+2025/02/11-02:02:00.657,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:304
+2025/02/11-02:02:10.672,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:305
+2025/02/11-02:02:10.672,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:305
+2025/02/11-02:02:10.672,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:305
+2025/02/11-02:02:10.673,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:305
+2025/02/11-02:02:10.673,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:305
+2025/02/11-02:02:10.673,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:305
+2025/02/11-02:02:20.665,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:306
+2025/02/11-02:02:20.665,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:306
+2025/02/11-02:02:20.665,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:306
+2025/02/11-02:02:20.665,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:306
+2025/02/11-02:02:20.665,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:306
+2025/02/11-02:02:20.665,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:306
+2025/02/11-02:02:30.663,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:307
+2025/02/11-02:02:30.663,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:307
+2025/02/11-02:02:30.663,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:307
+2025/02/11-02:02:30.663,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:307
+2025/02/11-02:02:30.664,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:307
+2025/02/11-02:02:30.664,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:307
+2025/02/11-02:02:40.669,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:308
+2025/02/11-02:02:40.669,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:308
+2025/02/11-02:02:40.669,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:308
+2025/02/11-02:02:40.669,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:308
+2025/02/11-02:02:40.669,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:308
+2025/02/11-02:02:40.669,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:308
+2025/02/11-02:02:50.671,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:309
+2025/02/11-02:02:50.671,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:309
+2025/02/11-02:02:50.671,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:309
+2025/02/11-02:02:50.671,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:309
+2025/02/11-02:02:50.671,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:309
+2025/02/11-02:02:50.671,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:309
+2025/02/11-02:03:00.660,WorldSerializedObject.cpp,3531,(debug),[guild-battle-field-wso], GuildBattleFieldWSO, elapsed:60000
+2025/02/11-02:03:00.660,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:310
+2025/02/11-02:03:00.660,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:310
+2025/02/11-02:03:00.660,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:310
+2025/02/11-02:03:00.660,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:310
+2025/02/11-02:03:00.660,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:310
+2025/02/11-02:03:00.660,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:310
+2025/02/11-02:03:10.662,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:311
+2025/02/11-02:03:10.662,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:311
+2025/02/11-02:03:10.662,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:311
+2025/02/11-02:03:10.662,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:311
+2025/02/11-02:03:10.662,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:311
+2025/02/11-02:03:10.662,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:311
+2025/02/11-02:03:20.665,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:312
+2025/02/11-02:03:20.665,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:312
+2025/02/11-02:03:20.665,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:312
+2025/02/11-02:03:20.665,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:312
+2025/02/11-02:03:20.665,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:312
+2025/02/11-02:03:20.665,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:312
+2025/02/11-02:03:30.662,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:313
+2025/02/11-02:03:30.662,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:313
+2025/02/11-02:03:30.662,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:313
+2025/02/11-02:03:30.663,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:313
+2025/02/11-02:03:30.663,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:313
+2025/02/11-02:03:30.663,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:313
+2025/02/11-02:03:40.666,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:314
+2025/02/11-02:03:40.666,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:314
+2025/02/11-02:03:40.666,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:314
+2025/02/11-02:03:40.666,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:314
+2025/02/11-02:03:40.666,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:314
+2025/02/11-02:03:40.666,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:314
+2025/02/11-02:03:50.665,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:315
+2025/02/11-02:03:50.665,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:315
+2025/02/11-02:03:50.665,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:315
+2025/02/11-02:03:50.665,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:315
+2025/02/11-02:03:50.665,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:315
+2025/02/11-02:03:50.665,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:315
+2025/02/11-02:03:55.453,ArenaLobbyCommon.cpp,483,(debug),[arena], build room, roomId:0x3, pc:0x1000000000001, pcdbid:0xa4, member->_newbieInfoFlag:0x7e, roomIdFrom:2
+2025/02/11-02:03:55.453,ArenaLobbyCommon.cpp,483,(debug),[arena], build room, roomId:0x3, pc:0x1000000000003, pcdbid:0x2820, member->_newbieInfoFlag:0x7e, roomIdFrom:1
+2025/02/11-02:03:55.453,ArenaGameChannel.cpp,2250,(debug),[arena], HandleArenaLobbyArenaReserveArenaReq; session:0xf00000001, roomId:0x3, roomOtp:0x1
+2025/02/11-02:03:55.505,Inventory.cpp,439,(debug),[inventory], Initialize, onwer : 1000000000001
+2025/02/11-02:03:55.506,TeamInvitationCardBox.cpp,55,(debug),[team], initialize team invitation card box, owner:0x1000000000001
+2025/02/11-02:03:55.507,Pc.cpp,302,(debug),[season-contents], SeasonContentsTimeAttackRecordContext::Init, pcId:0x1000000000001, pcDbId:0, _seasonContentsType:-1, _subMode:-1, _preGrade:0, _grade:0
+2025/02/11-02:03:55.507,World.cpp,2256,(debug),[world], create pc, pc id:1000000000001
+2025/02/11-02:03:55.508,Creature.cpp,4068,(debug),[creature], level initialized, pc:0x1000000000001, oldLevel:50, curLevel:50
+2025/02/11-02:03:55.510,QuestJournal.cpp,4391,(debug),[quest], set db quest data; all quest confirmed, pcdbid:0x2820, count:1
+2025/02/11-02:03:55.510,ContentQuota.cpp,463,(debug),[quota], set db quota data; all quota confirmed, pcdbid:0x2820, count:1
+2025/02/11-02:03:55.510,Pc.cpp,12189,(debug),[pc], SetMaxLevel; pcDbId:0x2820, pcId:0x1000000000001, oldMaxLevel:55, maxLevel:55, level:50
+2025/02/11-02:03:55.510,World.cpp,2298,(debug),[world], register pc, pc id:1000000000001
+2025/02/11-02:03:55.511,User.cpp,1919,(debug),[arena], enter arena reserved, otp-key:eab371c88b06079b, world-id:7801, world-pcid:1000000000003, pcid:1000000000001, pcdbid:2820
+2025/02/11-02:03:55.511,ArenaGameChannel.cpp,649,(debug),[arena], set external info, externalIdSize:0, gamePlayRestrictLevel:0, safeEventType:0, safemodeLevel:0
+2025/02/11-02:03:55.511,User.cpp,1376,(debug),[user], InitBotScore, enterWorld:y, pcDbId:0x2820, oldScore:0, newScore:0, diff:0, level:0, isolate_perzone:n
+2025/02/11-02:03:55.511,ArenaGameChannel.cpp,706,(debug),[arena], enter arena, reserve user success, pcDbId:0x2820, pcId:0x1000000000001, pcname:War1ock, game-packet-right:2, g-w-rank:0x0, g-s-rank:0x0
+2025/02/11-02:03:55.511,Inventory.cpp,439,(debug),[inventory], Initialize, onwer : 1000000000002
+2025/02/11-02:03:55.511,TeamInvitationCardBox.cpp,55,(debug),[team], initialize team invitation card box, owner:0x1000000000002
+2025/02/11-02:03:55.511,Pc.cpp,302,(debug),[season-contents], SeasonContentsTimeAttackRecordContext::Init, pcId:0x1000000000002, pcDbId:0, _seasonContentsType:-1, _subMode:-1, _preGrade:0, _grade:0
+2025/02/11-02:03:55.511,World.cpp,2256,(debug),[world], create pc, pc id:1000000000002
+2025/02/11-02:03:55.511,Creature.cpp,4068,(debug),[creature], level initialized, pc:0x1000000000002, oldLevel:50, curLevel:50
+2025/02/11-02:03:55.512,QuestJournal.cpp,4391,(debug),[quest], set db quest data; all quest confirmed, pcdbid:0xa4, count:9
+2025/02/11-02:03:55.512,ContentQuota.cpp,463,(debug),[quota], set db quota data; all quota confirmed, pcdbid:0xa4, count:1
+2025/02/11-02:03:55.512,SeasonScore.cpp,298,(debug),[combat-record-container], SetRecordValue; ok, pcId:0x1000000000002, seasonContentsType:1, isInsert:1, entryIndex:0
+2025/02/11-02:03:55.512,Pc.cpp,12189,(debug),[pc], SetMaxLevel; pcDbId:0xa4, pcId:0x1000000000002, oldMaxLevel:55, maxLevel:55, level:50
+2025/02/11-02:03:55.512,World.cpp,2298,(debug),[world], register pc, pc id:1000000000002
+2025/02/11-02:03:55.512,User.cpp,1919,(debug),[arena], enter arena reserved, otp-key:8ee4906bbeef3570, world-id:7801, world-pcid:1000000000001, pcid:1000000000002, pcdbid:a4
+2025/02/11-02:03:55.512,ArenaGameChannel.cpp,649,(debug),[arena], set external info, externalIdSize:0, gamePlayRestrictLevel:0, safeEventType:0, safemodeLevel:0
+2025/02/11-02:03:55.512,User.cpp,1376,(debug),[user], InitBotScore, enterWorld:y, pcDbId:0xa4, oldScore:0, newScore:0, diff:0, level:0, isolate_perzone:n
+2025/02/11-02:03:55.512,ArenaGameChannel.cpp,706,(debug),[arena], enter arena, reserve user success, pcDbId:0xa4, pcId:0x1000000000002, pcname:Tamgiacbm, game-packet-right:2, g-w-rank:0x0, g-s-rank:0x0
+2025/02/11-02:03:55.514,Port.cpp,648,(debug),[session], created, port-id:1, session-id:100000001, session:000000000D800000
+2025/02/11-02:03:55.514,Session.cpp,471,(debug),[session], accepted from, port id: 1, session id:100000001, this:000000000D800000, ip:192.168.1.7, port:10752, socket:0000000000000A38
+2025/02/11-02:03:55.563,GamePacketHandler.cpp,18015,(debug),[arena], enter arena suggest, session:0x100000001, ip:192.168.1.7, otp-key:0x8ee4906bbeef3570, world-id:7801, world-pcid:0x1000000000001
+2025/02/11-02:03:55.564,SerializerTimer.cpp,354,(debug),[serialize timer], initialize timer, serializer:0000000030DFE320, serializer id:0, this:00000000322FAF00
+2025/02/11-02:03:55.564,Serializer.cpp,132,(debug),[serializer], initialize serializer, id:10000000000040, this:0000000030DFE320, _expiredList:0000000030DFE3A0, _postQueue:0000000030DFE340, execQueue:0000000030DFE370, timer:00000000322FAF00
+2025/02/11-02:03:55.564,Campfire.cpp,126,(debug),[Campfire], initialize, Campfire : (C0004000000001), dataId : 2, zone : (10000000000040)
+2025/02/11-02:03:55.564,Campfire.cpp,126,(debug),[Campfire], initialize, Campfire : (C0004000000002), dataId : 2, zone : (10000000000040)
+2025/02/11-02:03:55.564,DuelManager.cpp,358,(debug),[duel], DuelManager::Initialize; duel game stand by, zoneId:0x10000000000040, duelKey:0x17, gameState:1, roundState:1, calcRating:y
+2025/02/11-02:03:55.564,Zone.cpp,810,(debug),[zone], zone opened, this:000000003232C380, zone-id:10000000000040, geo:4836, channel:0, geo-class:'instant', zone-class:'instant'
+2025/02/11-02:03:55.564,Serializer.cpp,565,(debug),[serializer], serializer post event, serializer:10000000000040, evt:1, elapsed:0
+2025/02/11-02:03:55.564,Zone.cpp,12339,(debug),[zone-waiting-pc], add, zone-id:10000000000040, pc-id:1000000000002, pc:000000003099CDA0, count:1, gm-count:0, max-size:22
+2025/02/11-02:03:55.565,SystemAction.cpp,163,(debug),[pc-spawn-action], initialize, this:000000003097CE10, creature:1000000000002, zone:10000000000040, geo-zone:4836, pos:-845,18577,-547
+2025/02/11-02:03:55.565,World.cpp,1507,(notice),[world], pc enter arena, pcid:1000000000002, pcdbid:a4, name:Tamgiacbm, total-enter-world-duration:0, current-pc-count:2, max-pc-count:2
+2025/02/11-02:03:55.565,GamePacketHandler.cpp,18095,(debug),[arena], enter arena success, session:0x100000001, ip:192.168.1.7, otp-key:0x8ee4906bbeef3570, world-id:7801, world-pcid:0x1000000000001, pcid:0x1000000000002, pcdbid:0xa4
+2025/02/11-02:03:55.660,Serializer.cpp,640,(debug),[serialize object list], grow, this:00000000309AC6E0, old count:0, new count:1024
+2025/02/11-02:03:55.660,SystemAction.cpp,230,(debug),[pc-spawn-action], startAction, this:000000003097CE10, creature:1000000000002, zone:10000000000040, geo-zone:4836, pos:-845,18577,-547--546
+2025/02/11-02:03:55.660,WorldSerializedObject.cpp,428,(debug),[chatting-channel], channel chatting authenticate, worldId:0x4589, pc-pointer:0x000000003099CDA0, name:Tamgiacbm, available:1, pcid:0x1000000000002, pcdbid:0xa4, externalAccountId:0x0, cause:1, result:0
+2025/02/11-02:03:55.660,SystemAction.cpp,372,(debug),[pc-spawn-action], prepare spawn, this:000000003097CE10, creature:1000000000002, spawn-key:1, pos:-845;18577;-559
+2025/02/11-02:03:58.020,GamePacketHandler.cpp,614,(debug),[Enter Zone], debug start, pc id:0x1000000000002
+2025/02/11-02:03:58.020,GamePacketHandler.cpp,692,(debug),[Enter Zone], pc id:0x1000000000002
+2025/02/11-02:03:58.064,Zone.cpp,12460,(debug),[zone-waiting-pc], remove success, zone-id:10000000000040, pc-id:1000000000002, pc:000000003099CDA0, max-size:22, count:0, gm-count:0
+2025/02/11-02:03:58.064,Pc.cpp,1349,(debug),[creature], enter zone(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, reason:move-to-arena(7)
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20126
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20138
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20127
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20108
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20230
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20200
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20115
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20104
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20142
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20113
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20131
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20312
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20130
+2025/02/11-02:03:58.064,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20135
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.064,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20233
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20203
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20111
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20550
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20306
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20515
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20516
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20153
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20151
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20202
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20205
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20107
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20132
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20150
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20110
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20117
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20118
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20229
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20003
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20604
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20600
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20106
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20114
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20168
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20601
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20602
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20133
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20211
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20212
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20603
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20400
+2025/02/11-02:03:58.065,Skill.cpp,2130,(debug),[skill-container], CheckAcquire, already acquire, skillId : 20129
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.065,Pc.cpp,3788,(debug),[creature], acquireSkillFromLevel(pc), this:0x000000003099CDA0, id:1000000000002, zone:10000000000040, geozone:4836, enterWorld:1
+2025/02/11-02:03:58.067,ContentQuota.cpp,583,(debug),[quota], ApplyNewData completed, pcdbid:0xa4
+2025/02/11-02:03:58.067,Pc.cpp,1494,(debug),[user], ClearBotState, pcDbId:0xa4
+2025/02/11-02:03:58.067,DuelManager.cpp,402,(debug),[duel], DuelManager::SetRoomInfo; succeeded to set room info, zoneId:0x10000000000040, duelKey:0x17, roomId:0x3
+2025/02/11-02:03:58.068,DuelManager.cpp,184,(debug),[duel], DuelTeam::Join; pc joined to team, pcId:0x1000000000002, pcDbId:0xA4
+2025/02/11-02:03:58.068,DuelManager.cpp,604,(debug),[duel], DuelManager::Enter; pc entered, zoneId:0x10000000000040, duelKey:0x17, pcId:0x1000000000002, pcDbId:0xA4, side:0
+2025/02/11-02:03:58.068,Pc.cpp,17306,(debug),[pc], Pc::GetNewbieInfoFlag, achievementData is not yet set, pc:0x1000000000002, pcDbId:0xa4
+2025/02/11-02:03:58.068,Pc.cpp,17315,(debug),[pc], Pc::GetNewbieInfoFlag, pc:0x1000000000002, pcDbId:0xa4, newbieInfoFlag:0x0
+2025/02/11-02:03:58.068,SystemAction.cpp,432,(debug),[pc-spawn-action], spawn, this:000000003097CE10, creature:1000000000002, pos:-845,18577,-559
+2025/02/11-02:03:58.068,SystemAction.cpp,528,(debug),[pc-spawn-action], spawn creature, this:000000003097CE10, creature:1000000000002, pos:-845,18577,-559
+2025/02/11-02:03:58.068,SystemAction.cpp,833,(debug),[pc-spawn-action], finished., this:000000003097CE10
+2025/02/11-02:03:58.118,AchievementData.cpp,268,(debug),[achievement-data], AchievementData::Init, pcdbid:0xa4, pcjob:1, newbieInfoFlag:0x7e
+2025/02/11-02:03:58.162,InventoryAction.cpp,115,(debug),[inventory], item-list send., pc:0x1000000000002
+2025/02/11-02:03:58.162,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:1
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:2
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:3
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:6
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:7
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:8
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:9
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:10
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:11
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:12
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:13
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:14
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:15
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:16
+2025/02/11-02:03:58.163,Inventory.cpp,17405,(debug),[inventory], collapseEffect, Zone:10000000000040, Pc:1000000000002, equipPos:17
+2025/02/11-02:03:58.260,Pc.cpp,17315,(debug),[pc], Pc::GetNewbieInfoFlag, pc:0x1000000000002, pcDbId:0xa4, newbieInfoFlag:0x7e
+2025/02/11-02:04:00.660,WorldSerializedObject.cpp,3531,(debug),[guild-battle-field-wso], GuildBattleFieldWSO, elapsed:60000
+2025/02/11-02:04:00.660,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:316
+2025/02/11-02:04:00.660,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:316
+2025/02/11-02:04:00.660,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:316
+2025/02/11-02:04:00.660,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:316
+2025/02/11-02:04:00.661,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:316
+2025/02/11-02:04:00.661,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:316
+2025/02/11-02:04:01.379,Pc.cpp,17315,(debug),[pc], Pc::GetNewbieInfoFlag, pc:0x1000000000002, pcDbId:0xa4, newbieInfoFlag:0x7e
+2025/02/11-02:04:05.164,GamePacketHandler.cpp,107,(debug),HandleGame_PingReq: ping received, session:0x100000001
+2025/02/11-02:04:07.855,Pc.cpp,17315,(debug),[pc], Pc::GetNewbieInfoFlag, pc:0x1000000000002, pcDbId:0xa4, newbieInfoFlag:0x7e
+2025/02/11-02:04:10.659,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:317
+2025/02/11-02:04:10.659,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:317
+2025/02/11-02:04:10.659,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:317
+2025/02/11-02:04:10.659,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:317
+2025/02/11-02:04:10.659,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:317
+2025/02/11-02:04:10.659,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:317
+2025/02/11-02:04:20.665,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:318
+2025/02/11-02:04:20.665,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:318
+2025/02/11-02:04:20.665,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:318
+2025/02/11-02:04:20.665,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:318
+2025/02/11-02:04:20.665,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:318
+2025/02/11-02:04:20.665,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:318
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3087,(debug),[max-send], max send packet histogram, max:1000, step:10, start:  0, underflow:   1, overflow:   0, histo:[   1,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3087,(debug),[max-send], max send packet histogram, max:1000, step:10, start: 20, underflow:   1, overflow:   0, histo:[   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3087,(debug),[max-send], max send packet histogram, max:1000, step:10, start: 40, underflow:   1, overflow:   0, histo:[   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3087,(debug),[max-send], max send packet histogram, max:1000, step:10, start: 60, underflow:   1, overflow:   0, histo:[   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3087,(debug),[max-send], max send packet histogram, max:1000, step:10, start: 80, underflow:   1, overflow:   0, histo:[   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0,   0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3257,(debug),[max-recv], packet recv per second histogram(total), max:1000, step:10, start:0, underflow:1, overflow:0, histo:[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3296,(debug),[max-recv], packet recv per second histogram(per job), job-code:1, job:??, max:1000, step:10, start:0, underflow:0, overflow:0, histo:[0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3296,(debug),[max-recv], packet recv per second histogram(per job), job-code:2, job:??, max:1000, step:10, start:0, underflow:0, overflow:0, histo:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3296,(debug),[max-recv], packet recv per second histogram(per job), job-code:3, job:???, max:1000, step:10, start:0, underflow:0, overflow:0, histo:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3296,(debug),[max-recv], packet recv per second histogram(per job), job-code:5, job:??, max:1000, step:10, start:0, underflow:0, overflow:0, histo:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3296,(debug),[max-recv], packet recv per second histogram(per job), job-code:6, job:???, max:1000, step:10, start:0, underflow:1, overflow:0, histo:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3296,(debug),[max-recv], packet recv per second histogram(per job), job-code:7, job:???, max:1000, step:10, start:0, underflow:0, overflow:0, histo:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3296,(debug),[max-recv], packet recv per second histogram(per job), job-code:8, job:???, max:1000, step:10, start:0, underflow:0, overflow:0, histo:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3296,(debug),[max-recv], packet recv per second histogram(per job), job-code:9, job:???, max:1000, step:10, start:0, underflow:0, overflow:0, histo:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+2025/02/11-02:04:30.667,WorldSerializedObject.cpp,3296,(debug),[max-recv], packet recv per second histogram(per job), job-code:10, job:???, max:1000, step:10, start:0, underflow:0, overflow:0, histo:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+2025/02/11-02:04:30.667,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:319
+2025/02/11-02:04:30.667,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:319
+2025/02/11-02:04:30.668,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:319
+2025/02/11-02:04:30.668,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:319
+2025/02/11-02:04:30.668,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:319
+2025/02/11-02:04:30.668,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:319
+2025/02/11-02:04:30.668,GamePacketHandler.cpp,348,(debug),HandleGame_ServerPingReq: ping received, pcid:0x1000000000002, pcdbid:0xa4, diff-count:0, diff-time:0, last-sent-ping-count:54, last-sent-time:3181703, last-recv-ping-count:54, last-recv-time:3181703
+2025/02/11-02:04:36.714,GamePacketHandler.cpp,107,(debug),HandleGame_PingReq: ping received, session:0x100000001
+2025/02/11-02:04:40.653,AchievementChannel.cpp,211,(debug),[achievement-channel], received ping, session-id:0x1500000001, count:320
+2025/02/11-02:04:40.653,AchievementChannel.cpp,202,(debug),[achievement-channel], sent ping, session-id:0x1500000001, count:320
+2025/02/11-02:04:40.653,ArenaGameChannel.cpp,79,(debug),[arena-game], received ping, session-id:0x1000000001, world-id:7801, count:320
+2025/02/11-02:04:40.654,ArenaGameChannel.cpp,70,(debug),[arena-game], sent ping, session-id:0x1000000001, world-id:7801, count:320
+2025/02/11-02:04:40.654,ArenaGameChannel.cpp,1723,(debug),[arena-lobby], received ping, session-id:0xf00000001, count:320
+2025/02/11-02:04:40.654,ArenaGameChannel.cpp,1714,(debug),[arena-lobby], sent ping, session-id:0xf00000001, count:320
+2025/02/11-02:04:41.204,RankingChannel.cpp,210,(debug),[ranking-channel], trying to reconnect, session-id:0x1800000001
+2025/02/11-02:04:41.204,RankingChannel.cpp,220,(debug),[ranking-channel], ranking season manager finalize, season-id:0x1800000001, seasonMgr:000000003820D200
+2025/02/11-02:04:41.204,Session.cpp,515,(debug),[session], trying to reconnect after 5000 msec, id:1800000001, this:0000000007B70000, addr:(192.168.1.8:22501)
+2025/02/11-02:04:41.204,Session.cpp,694,(debug),[session], close called; don't remove session, id:1800000001, this:0000000007B70000, state:4
+2025/02/11-02:04:44.008,ArenaGameChannel.cpp,1798,(debug),[arena-lobby], closed, session:0xf00000001
+2025/02/11-02:04:44.008,Session.cpp,515,(debug),[session], trying to reconnect after 5000 msec, id:f00000001, this:0000000007AF0000, addr:(192.168.1.8:21500)
+2025/02/11-02:04:44.008,Session.cpp,694,(debug),[session], close called; don't remove session, id:f00000001, this:0000000007AF0000, state:4
+2025/02/11-02:04:44.224,AchievementChannel.cpp,129,(debug),[achievement-channel], trying to reconnect, session-id:0x1500000001
+2025/02/11-02:04:44.224,Session.cpp,515,(debug),[session], trying to reconnect after 5000 msec, id:1500000001, this:0000000007B30000, addr:(192.168.1.8:22200)
+2025/02/11-02:04:44.224,Session.cpp,694,(debug),[session], close called; don't remove session, id:1500000001, this:0000000007B30000, state:4

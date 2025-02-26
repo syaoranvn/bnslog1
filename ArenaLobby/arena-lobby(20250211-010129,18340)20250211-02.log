@@ -1,0 +1,517 @@
+2025/02/11-02:00:00.657,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:292
+2025/02/11-02:00:02.150,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:00:02.150,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:02.151,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:02.151,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:02.151,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:05.143,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:05.143,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:05.143,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:05.143,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:07.142,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:07.408,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:316
+2025/02/11-02:00:08.131,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:00:08.131,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:00:08.131,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:08.131,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:10.664,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:293
+2025/02/11-02:00:11.138,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:11.138,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:11.139,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:00:11.139,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:11.543,DuelMatchingQueue.cpp,553,(debug),[room], [match], duel rating matching queue added, room-id:1, band:61, detail:1, reserveKey:0x0, attr:1, mode:1, state:1, allowSpectate:1, reinforce:[N:N], map:0[0,0,0], team:0(1,0)[5D1BC14C-6DA9-471A-82A6-171D531839060x100290001:1/0x2820/War1ock/2/0/130000:130000]
+2025/02/11-02:00:12.133,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:14.144,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:14.144,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:14.144,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:14.144,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:17.147,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:17.147,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:17.149,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:17.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:17.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:17.416,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:317
+2025/02/11-02:00:20.137,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:20.137,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:20.137,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:20.137,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:20.670,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:294
+2025/02/11-02:00:22.143,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:23.139,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:23.140,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:00:23.140,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:23.140,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:00:26.151,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:26.151,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:26.151,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:26.151,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:27.136,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:27.421,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:318
+2025/02/11-02:00:29.148,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:29.148,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:29.148,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:29.148,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:30.657,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:295
+2025/02/11-02:00:32.140,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:00:32.141,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:32.141,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:32.141,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:32.141,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:35.134,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:35.134,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:35.134,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:35.134,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:37.156,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:37.419,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:319
+2025/02/11-02:00:38.131,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:38.131,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:38.131,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:38.132,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:00:40.666,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:296
+2025/02/11-02:00:41.146,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:41.147,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:00:41.147,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:41.147,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:42.144,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:44.148,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:00:44.150,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:44.151,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:44.151,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:47.153,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:00:47.153,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:47.155,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:47.155,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:47.155,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:47.418,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:320
+2025/02/11-02:00:50.139,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:00:50.139,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:50.139,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:00:50.139,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:50.662,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:297
+2025/02/11-02:00:52.129,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:53.142,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:53.143,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:00:53.143,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:53.143,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:56.140,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:00:56.141,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:00:56.141,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:56.141,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:00:57.136,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:00:57.404,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:321
+2025/02/11-02:00:59.144,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:00:59.144,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:00:59.146,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:00:59.146,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:00.660,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:298
+2025/02/11-02:01:02.137,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:01:02.137,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:02.138,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:02.138,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:02.138,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:05.142,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:05.142,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:05.143,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:01:05.143,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:07.151,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:07.403,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:322
+2025/02/11-02:01:08.148,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:08.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:08.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:08.149,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:10.660,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:299
+2025/02/11-02:01:11.143,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:01:11.143,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:01:11.143,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:11.143,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:12.144,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:14.127,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:14.127,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:14.127,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:14.128,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:01:17.140,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:17.140,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:17.141,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:17.141,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:17.141,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:17.418,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:323
+2025/02/11-02:01:20.151,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:20.151,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:01:20.151,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:20.151,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:20.676,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:300
+2025/02/11-02:01:22.150,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:23.148,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:23.148,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:23.148,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:23.149,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:01:26.135,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:26.135,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:26.135,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:26.136,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:01:27.150,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:27.423,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:324
+2025/02/11-02:01:29.136,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:29.136,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:29.136,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:29.136,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:30.658,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:301
+2025/02/11-02:01:32.149,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:01:32.149,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:32.150,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:32.150,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:32.150,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:35.123,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:35.123,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:35.123,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:35.124,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:01:37.155,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:37.414,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:325
+2025/02/11-02:01:38.140,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:38.140,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:38.140,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:38.140,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:40.671,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:302
+2025/02/11-02:01:41.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:41.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:41.150,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:01:41.150,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:42.149,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:44.149,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:44.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:01:44.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:44.149,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:47.140,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:47.140,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:47.141,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:47.142,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:01:47.142,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:47.422,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:326
+2025/02/11-02:01:50.153,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:50.153,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:50.153,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:50.153,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:50.670,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:303
+2025/02/11-02:01:52.130,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:53.148,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:53.148,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:53.148,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:01:53.148,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:56.137,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:01:56.137,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:56.137,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:01:56.137,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:01:57.135,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:01:57.427,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:327
+2025/02/11-02:01:59.142,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:01:59.142,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:01:59.142,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:01:59.142,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:00.657,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:304
+2025/02/11-02:02:02.145,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:02.145,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:02.145,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:02.145,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:02.153,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:05.133,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:02:05.133,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:05.133,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:02:05.133,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:07.152,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:07.423,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:328
+2025/02/11-02:02:08.137,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:08.137,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:08.137,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:08.137,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:08.434,RoomManager.cpp,408,(debug),[room], room create success(new room), room-id:2, band:0, detail:1, reserveKey:0x0, attr:1, mode:1, state:0, allowSpectate:1, reinforce:[N:N], map:0[0,0,0], team:0(1,0)[BA18E574-9C5C-4F51-A637-7E7E9057D8600x248230001:2/0xa4/Tamgiacbm/1/0/138304:130000]
+2025/02/11-02:02:10.673,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:305
+2025/02/11-02:02:11.144,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:11.144,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:11.144,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:11.145,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:02:12.145,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:14.151,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:14.151,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:14.151,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:14.152,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:02:17.140,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:17.141,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:02:17.141,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:17.142,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:02:17.142,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:17.397,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:329
+2025/02/11-02:02:20.150,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:20.150,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:20.150,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:20.150,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:20.665,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:306
+2025/02/11-02:02:22.135,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:23.138,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:23.139,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:02:23.139,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:23.139,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:02:26.135,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:26.135,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:26.135,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:26.135,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:27.138,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:27.421,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:330
+2025/02/11-02:02:29.150,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:02:29.150,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:02:29.150,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:29.150,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:30.664,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:307
+2025/02/11-02:02:32.146,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:02:32.146,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:32.146,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:02:32.146,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:32.147,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:35.144,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:35.145,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:35.145,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:35.146,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:37.141,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:37.155,RoomManager.cpp,676,(debug),[room], member entered, room-id:2, pcDbId:0xa4, is-leader:y, is-flag-bearer:n
+2025/02/11-02:02:37.155,RoomManager.cpp,678,(debug),[room], enterRoom dump, room-id:2, band:0, detail:1, reserveKey:0x0, attr:1, mode:1, state:0, allowSpectate:1, reinforce:[N:N], map:0[0,0,0], team:0(1,0)[BA18E574-9C5C-4F51-A637-7E7E9057D8600x248230001:2/0xa4/Tamgiacbm/2/0/138304:130000]
+2025/02/11-02:02:37.155,RoomTask.cpp,251,(debug),[room], EnterRoomTask::SendNotify, room-id:2, pcDbId:0xa4, pcId:0x1000000000001, world-id:7801, isTeamLeader:y, newbieInfoFlag:0x7e, guildId:0x0, isGuildDelegate:n
+2025/02/11-02:02:37.407,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:331
+2025/02/11-02:02:38.135,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:38.135,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:38.135,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:38.136,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:2ms
+2025/02/11-02:02:40.669,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:308
+2025/02/11-02:02:41.154,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:02:41.154,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:02:41.154,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:41.154,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:41.786,ChattingServerChannel.cpp,185,(debug),[chatting-channel], HandleChattingGame_A2G_AUTHENTICATE_USERNotify, chat-game-server:20001, name:Tamgiacbm, worldId:7801, pcindex:0x1, userid:0x1e7900000001, cause:1
+2025/02/11-02:02:41.820,ArenaLobbySessionHandler.cpp,2073,(debug),[arena-lobby], chatting authenticate user result, ok, chat-game-server:20001, worldId:7801, name:Tamgiacbm, available:1, pcindex:0x1, userid:0x1e7900000001, pcDbId:0xa4, externalAccountId:0x0, cause:1, result:0
+2025/02/11-02:02:42.132,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:44.142,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:44.142,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:44.142,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:44.142,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:47.141,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:47.141,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:47.142,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:47.142,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:47.142,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:47.414,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:332
+2025/02/11-02:02:50.147,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:50.147,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:50.147,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:50.147,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:50.672,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:309
+2025/02/11-02:02:52.131,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:53.135,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:53.135,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:53.135,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:53.135,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:56.121,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:02:56.121,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:56.121,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:56.121,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:57.123,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:02:57.421,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:333
+2025/02/11-02:02:59.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:59.149,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:02:59.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:02:59.149,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:00.660,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:310
+2025/02/11-02:03:02.141,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:02.142,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:02.142,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:02.143,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:03:02.143,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:05.139,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:05.139,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:05.139,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:05.139,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:07.144,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:07.421,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:334
+2025/02/11-02:03:08.149,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:08.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:08.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:08.150,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:03:08.154,ArenaLobbySessionHandler.cpp,905,(debug),[arena-lobby], received ArenaLobby_InviteUnratedRoomReq packet, session:0x100000001, pcId:0x1000000000001, pcDbId:0xa4, room-id:0, targetName:War1ock, msgSize:75
+2025/02/11-02:03:09.796,RoomManager.cpp,1114,(error),[room], join room failed; invalid requester room state, src-room-id:1, pc-arena-lobby-id:0x100290001, pcDbId:0x2820, requester-room-id:2, targetName:, state:1
+2025/02/11-02:03:10.662,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:311
+2025/02/11-02:03:11.141,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:11.142,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:11.142,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:11.142,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:12.141,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:14.130,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:14.130,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:14.130,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:14.130,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:17.128,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:17.129,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:03:17.129,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:17.130,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:03:17.130,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:17.416,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:335
+2025/02/11-02:03:17.526,RoomManager.cpp,1114,(error),[room], join room failed; invalid requester room state, src-room-id:1, pc-arena-lobby-id:0x100290001, pcDbId:0x2820, requester-room-id:2, targetName:, state:1
+2025/02/11-02:03:20.147,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:03:20.147,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:20.147,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:20.147,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:20.665,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:312
+2025/02/11-02:03:22.138,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:22.187,ArenaLobbySessionHandler.cpp,905,(debug),[arena-lobby], received ArenaLobby_InviteUnratedRoomReq packet, session:0x100000001, pcId:0x1000000000001, pcDbId:0xa4, room-id:0, targetName:War1ock, msgSize:75
+2025/02/11-02:03:23.123,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:23.123,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:23.123,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:23.123,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:23.908,RoomManager.cpp,1114,(error),[room], join room failed; invalid requester room state, src-room-id:1, pc-arena-lobby-id:0x100290001, pcDbId:0x2820, requester-room-id:2, targetName:, state:1
+2025/02/11-02:03:26.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:26.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:26.149,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:26.149,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:27.149,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:27.414,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:336
+2025/02/11-02:03:29.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:29.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:29.149,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:29.149,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:30.663,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:313
+2025/02/11-02:03:32.149,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:32.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:32.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:32.149,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:32.150,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:35.133,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:35.133,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:35.133,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:35.134,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:03:37.127,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:37.423,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:337
+2025/02/11-02:03:37.455,RoomManager.cpp,2664,(debug),[room], cancel matching success, room-id:1, pcDbId:0x2820, cancel-reason:0
+2025/02/11-02:03:38.127,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:38.127,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:38.127,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:38.127,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:40.666,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:314
+2025/02/11-02:03:41.146,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:41.146,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:41.147,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:03:41.147,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:42.165,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:44.131,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:44.131,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:44.131,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:44.132,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:03:47.137,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:03:47.137,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:47.139,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:47.140,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:03:47.140,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:47.405,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:338
+2025/02/11-02:03:49.572,ArenaLobbySessionHandler.cpp,905,(debug),[arena-lobby], received ArenaLobby_InviteUnratedRoomReq packet, session:0x100000001, pcId:0x1000000000001, pcDbId:0xa4, room-id:0, targetName:War1ock, msgSize:75
+2025/02/11-02:03:49.842,RoomManager.cpp,3078,(debug),[room], room delete success, room-id:2, reserve-key:0x0, reason:room merged(left)
+2025/02/11-02:03:49.842,RoomManager.cpp,3086,(debug),[room], room delete success, room-id:1, reserve-key:0x0, reason:room merged(right)
+2025/02/11-02:03:49.842,RoomManager.cpp,3099,(debug),[room], match success(map:0), room-id:3, band:0, detail:3, reserveKey:0x0, attr:1, mode:1, state:2, allowSpectate:1, reinforce:[N:N], map:0[0,0,0], team:0(1,0)[BA18E574-9C5C-4F51-A637-7E7E9057D8600x248230001:2/0xa4/Tamgiacbm/2/0/138304:130000], team:1(1,0)[5D1BC14C-6DA9-471A-82A6-171D531839060x100290001:1/0x2820/War1ock/2/0/130000:130000]
+2025/02/11-02:03:49.855,RoomManager.cpp,3164,(debug),[room], ready to go to arena success, room-id:3, pcDbId:0xa4
+2025/02/11-02:03:50.107,RoomManager.cpp,3164,(debug),[room], ready to go to arena success, room-id:3, pcDbId:0x2820
+2025/02/11-02:03:50.135,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:50.135,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:50.135,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:50.135,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:50.665,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:315
+2025/02/11-02:03:52.104,RoomManager.cpp,1114,(error),[room], join room failed; invalid requester room state, src-room-id:3, pc-arena-lobby-id:0x100290001, pcDbId:0x2820, requester-room-id:2, targetName:, state:2
+2025/02/11-02:03:52.139,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:53.148,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:03:53.148,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:53.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:03:53.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:54.885,RoomManager.cpp,3277,(debug),[room], decide to go to arena success, room-id:3, pcDbId:0xa4
+2025/02/11-02:03:55.453,RoomManager.cpp,3277,(debug),[room], decide to go to arena success, room-id:3, pcDbId:0x2820
+2025/02/11-02:03:55.453,RoomManager.cpp,5141,(debug),[arena-lobby], send reserve arena success, arena-id:7801, arenaPortalKey:0x1, room-id:3, reserve-key:0x118be0001, arenaGameMode:1, detailRule:3, selectedMap:0, moveType:1
+2025/02/11-02:03:55.453,RoomManager.cpp,3475,(debug),[room], room reserve success(removed from room manager), room-id:3
+2025/02/11-02:03:55.454,ArenaLobbySessionHandler.cpp,1934,(debug),[arena-lobby], room reserve ok received, arena-id:7801, room-id:3, room-otp:0x1, reserve-key:0x118be0001
+2025/02/11-02:03:56.134,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:03:56.134,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:56.134,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:56.135,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:03:57.146,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:03:57.416,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:339
+2025/02/11-02:03:58.071,ArenaQuota.cpp,304,(debug),[arena-quota], member entered in arena, arena-id:7801, reserve-key:0x118be0001, pcDbId:0xa4, isSpectator:0, allowSpectate:1
+2025/02/11-02:03:58.071,RoomManager.cpp,4500,(debug),[arena-lobby], enter arena success, arena-id:7801, reserve-key:0x118be0001, pcDbId:0xa4
+2025/02/11-02:03:59.147,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:03:59.147,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:03:59.147,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:03:59.147,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:04:00.660,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:316
+2025/02/11-02:04:02.142,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:02.142,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:02.142,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:04:02.143,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:04:02.144,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:04:05.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:05.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:05.150,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:04:05.150,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:04:07.134,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:04:07.410,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:340
+2025/02/11-02:04:08.143,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:04:08.143,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:08.143,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:08.143,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:04:10.659,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:317
+2025/02/11-02:04:11.133,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:04:11.133,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:11.133,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:11.134,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:04:12.147,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:04:14.138,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:04:14.138,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:14.138,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:14.138,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:04:17.147,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:04:17.147,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:04:17.148,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:04:17.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:1ms
+2025/02/11-02:04:17.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:17.420,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:341
+2025/02/11-02:04:20.147,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:20.147,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:20.148,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:04:20.148,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:04:20.665,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:318
+2025/02/11-02:04:22.138,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:04:23.145,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:23.145,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:23.145,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:04:23.145,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:04:26.152,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:26.152,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:26.152,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:04:26.153,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:2ms
+2025/02/11-02:04:27.137,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:04:27.413,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:342
+2025/02/11-02:04:29.149,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:29.149,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:29.149,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:04:29.149,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:04:30.668,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:319
+2025/02/11-02:04:32.171,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:04:32.172,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:1ms
+2025/02/11-02:04:32.173,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:04:32.173,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:32.173,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:35.144,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:35.144,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:35.144,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:0ms
+2025/02/11-02:04:35.144,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:04:37.138,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0
+2025/02/11-02:04:37.417,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000001, daemon-type:0, daemon-id:7801, count:343
+2025/02/11-02:04:38.138,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:04:38.139,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:04:38.151,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:11ms
+2025/02/11-02:04:38.151,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:40.654,ArenaLobbySessionHandler.cpp,2130,(debug),[arena-lobby], ping received, session-id:100000002, daemon-type:1, daemon-id:7801, count:320
+2025/02/11-02:04:41.131,DuelMatchingQueue.cpp,846,(debug),[match], run duel rating match queue(1vs1), matched:0, elapsed:0ms
+2025/02/11-02:04:41.131,PartyBattleFieldMatchingQueue.cpp,1356,(debug),[match], run party-battle rating match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:41.131,PartyBattleFieldMatchingQueue.cpp,818,(debug),[match], run party-battle unrated match queue(occupation-war), matched:0, elapsed:0ms
+2025/02/11-02:04:41.133,DuelMatchingQueue.cpp,989,(debug),[match], run duel rating match queue(3vs3), matched:0, elapsed:1ms
+2025/02/11-02:04:42.167,DungeonMatchingQueue.cpp,339,(debug),[match], run dungeon match queue, matched:0

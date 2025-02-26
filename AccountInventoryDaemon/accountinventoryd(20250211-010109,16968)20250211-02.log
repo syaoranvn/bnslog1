@@ -1,0 +1,80 @@
+2025/02/11-02:00:11.139,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:0, cmd:1002, type:1
+2025/02/11-02:00:11.139,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78BE, 0(UPDATE_GOODS_FOR_PURCHASE), 2,transit, from:1(SETUP), to:2(CHECK_REVISION)
+2025/02/11-02:00:11.139,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:159, cmd:1913, type:1
+2025/02/11-02:00:11.139,UpdateGoodsForPurchase.cpp,202,(debug),[tranjob],0x01DB7BE5C35E78BE, 0(UPDATE_GOODS_FOR_PURCHASE), 2,check revision req sent, category-id:73
+2025/02/11-02:00:11.146,NPChannel2.cpp,540,(debug),[np], sts msg received, np-tid:159, cmd:1913, type:2
+2025/02/11-02:00:11.146,UpdateGoodsForPurchase.cpp,235,(debug),[tranjob],0x01DB7BE5C35E78BE, 0(UPDATE_GOODS_FOR_PURCHASE), 2,revision not changed
+2025/02/11-02:00:11.146,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78BE, 0(UPDATE_GOODS_FOR_PURCHASE), 99,transit, from:2(CHECK_REVISION), to:99(FIN)
+2025/02/11-02:00:11.146,GoodsJob.cpp,97,(debug),[job-mgr], job deregistered, id:0x01DB7BE5C35E78BE
+2025/02/11-02:00:41.146,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:0, cmd:1002, type:1
+2025/02/11-02:00:41.146,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78BF, 0(UPDATE_GOODS_FOR_PURCHASE), 2,transit, from:1(SETUP), to:2(CHECK_REVISION)
+2025/02/11-02:00:41.146,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:160, cmd:1913, type:1
+2025/02/11-02:00:41.146,UpdateGoodsForPurchase.cpp,202,(debug),[tranjob],0x01DB7BE5C35E78BF, 0(UPDATE_GOODS_FOR_PURCHASE), 2,check revision req sent, category-id:73
+2025/02/11-02:00:41.148,NPChannel2.cpp,540,(debug),[np], sts msg received, np-tid:160, cmd:1913, type:2
+2025/02/11-02:00:41.148,UpdateGoodsForPurchase.cpp,235,(debug),[tranjob],0x01DB7BE5C35E78BF, 0(UPDATE_GOODS_FOR_PURCHASE), 2,revision not changed
+2025/02/11-02:00:41.148,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78BF, 0(UPDATE_GOODS_FOR_PURCHASE), 99,transit, from:2(CHECK_REVISION), to:99(FIN)
+2025/02/11-02:00:41.149,GoodsJob.cpp,97,(debug),[job-mgr], job deregistered, id:0x01DB7BE5C35E78BF
+2025/02/11-02:01:11.143,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:0, cmd:1002, type:1
+2025/02/11-02:01:11.143,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C0, 0(UPDATE_GOODS_FOR_PURCHASE), 2,transit, from:1(SETUP), to:2(CHECK_REVISION)
+2025/02/11-02:01:11.143,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:161, cmd:1913, type:1
+2025/02/11-02:01:11.143,UpdateGoodsForPurchase.cpp,202,(debug),[tranjob],0x01DB7BE5C35E78C0, 0(UPDATE_GOODS_FOR_PURCHASE), 2,check revision req sent, category-id:73
+2025/02/11-02:01:11.152,NPChannel2.cpp,540,(debug),[np], sts msg received, np-tid:161, cmd:1913, type:2
+2025/02/11-02:01:11.152,UpdateGoodsForPurchase.cpp,235,(debug),[tranjob],0x01DB7BE5C35E78C0, 0(UPDATE_GOODS_FOR_PURCHASE), 2,revision not changed
+2025/02/11-02:01:11.152,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C0, 0(UPDATE_GOODS_FOR_PURCHASE), 99,transit, from:2(CHECK_REVISION), to:99(FIN)
+2025/02/11-02:01:11.152,GoodsJob.cpp,97,(debug),[job-mgr], job deregistered, id:0x01DB7BE5C35E78C0
+2025/02/11-02:01:41.149,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:0, cmd:1002, type:1
+2025/02/11-02:01:41.149,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C1, 0(UPDATE_GOODS_FOR_PURCHASE), 2,transit, from:1(SETUP), to:2(CHECK_REVISION)
+2025/02/11-02:01:41.149,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:162, cmd:1913, type:1
+2025/02/11-02:01:41.149,UpdateGoodsForPurchase.cpp,202,(debug),[tranjob],0x01DB7BE5C35E78C1, 0(UPDATE_GOODS_FOR_PURCHASE), 2,check revision req sent, category-id:73
+2025/02/11-02:01:41.152,NPChannel2.cpp,540,(debug),[np], sts msg received, np-tid:162, cmd:1913, type:2
+2025/02/11-02:01:41.152,UpdateGoodsForPurchase.cpp,235,(debug),[tranjob],0x01DB7BE5C35E78C1, 0(UPDATE_GOODS_FOR_PURCHASE), 2,revision not changed
+2025/02/11-02:01:41.152,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C1, 0(UPDATE_GOODS_FOR_PURCHASE), 99,transit, from:2(CHECK_REVISION), to:99(FIN)
+2025/02/11-02:01:41.152,GoodsJob.cpp,97,(debug),[job-mgr], job deregistered, id:0x01DB7BE5C35E78C1
+2025/02/11-02:02:11.143,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C2, 0(UPDATE_GOODS_FOR_PURCHASE), 2,transit, from:1(SETUP), to:2(CHECK_REVISION)
+2025/02/11-02:02:11.143,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:0, cmd:1002, type:1
+2025/02/11-02:02:11.143,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:163, cmd:1913, type:1
+2025/02/11-02:02:11.143,UpdateGoodsForPurchase.cpp,202,(debug),[tranjob],0x01DB7BE5C35E78C2, 0(UPDATE_GOODS_FOR_PURCHASE), 2,check revision req sent, category-id:73
+2025/02/11-02:02:11.150,NPChannel2.cpp,540,(debug),[np], sts msg received, np-tid:163, cmd:1913, type:2
+2025/02/11-02:02:11.150,UpdateGoodsForPurchase.cpp,235,(debug),[tranjob],0x01DB7BE5C35E78C2, 0(UPDATE_GOODS_FOR_PURCHASE), 2,revision not changed
+2025/02/11-02:02:11.150,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C2, 0(UPDATE_GOODS_FOR_PURCHASE), 99,transit, from:2(CHECK_REVISION), to:99(FIN)
+2025/02/11-02:02:11.150,GoodsJob.cpp,97,(debug),[job-mgr], job deregistered, id:0x01DB7BE5C35E78C2
+2025/02/11-02:02:41.121,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:0, cmd:1002, type:1
+2025/02/11-02:02:41.126,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C3, 0(UPDATE_GOODS_FOR_PURCHASE), 2,transit, from:1(SETUP), to:2(CHECK_REVISION)
+2025/02/11-02:02:41.126,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:164, cmd:1913, type:1
+2025/02/11-02:02:41.126,UpdateGoodsForPurchase.cpp,202,(debug),[tranjob],0x01DB7BE5C35E78C3, 0(UPDATE_GOODS_FOR_PURCHASE), 2,check revision req sent, category-id:73
+2025/02/11-02:02:41.156,NPChannel2.cpp,540,(debug),[np], sts msg received, np-tid:164, cmd:1913, type:2
+2025/02/11-02:02:41.156,UpdateGoodsForPurchase.cpp,235,(debug),[tranjob],0x01DB7BE5C35E78C3, 0(UPDATE_GOODS_FOR_PURCHASE), 2,revision not changed
+2025/02/11-02:02:41.156,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C3, 0(UPDATE_GOODS_FOR_PURCHASE), 99,transit, from:2(CHECK_REVISION), to:99(FIN)
+2025/02/11-02:02:41.156,GoodsJob.cpp,97,(debug),[job-mgr], job deregistered, id:0x01DB7BE5C35E78C3
+2025/02/11-02:03:11.120,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:0, cmd:1002, type:1
+2025/02/11-02:03:11.120,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C4, 0(UPDATE_GOODS_FOR_PURCHASE), 2,transit, from:1(SETUP), to:2(CHECK_REVISION)
+2025/02/11-02:03:11.120,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:165, cmd:1913, type:1
+2025/02/11-02:03:11.120,UpdateGoodsForPurchase.cpp,202,(debug),[tranjob],0x01DB7BE5C35E78C4, 0(UPDATE_GOODS_FOR_PURCHASE), 2,check revision req sent, category-id:73
+2025/02/11-02:03:11.145,NPChannel2.cpp,540,(debug),[np], sts msg received, np-tid:165, cmd:1913, type:2
+2025/02/11-02:03:11.145,UpdateGoodsForPurchase.cpp,235,(debug),[tranjob],0x01DB7BE5C35E78C4, 0(UPDATE_GOODS_FOR_PURCHASE), 2,revision not changed
+2025/02/11-02:03:11.145,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C4, 0(UPDATE_GOODS_FOR_PURCHASE), 99,transit, from:2(CHECK_REVISION), to:99(FIN)
+2025/02/11-02:03:11.145,GoodsJob.cpp,97,(debug),[job-mgr], job deregistered, id:0x01DB7BE5C35E78C4
+2025/02/11-02:03:41.124,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C5, 0(UPDATE_GOODS_FOR_PURCHASE), 2,transit, from:1(SETUP), to:2(CHECK_REVISION)
+2025/02/11-02:03:41.124,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:0, cmd:1002, type:1
+2025/02/11-02:03:41.124,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:166, cmd:1913, type:1
+2025/02/11-02:03:41.124,UpdateGoodsForPurchase.cpp,202,(debug),[tranjob],0x01DB7BE5C35E78C5, 0(UPDATE_GOODS_FOR_PURCHASE), 2,check revision req sent, category-id:73
+2025/02/11-02:03:41.151,NPChannel2.cpp,540,(debug),[np], sts msg received, np-tid:166, cmd:1913, type:2
+2025/02/11-02:03:41.151,UpdateGoodsForPurchase.cpp,235,(debug),[tranjob],0x01DB7BE5C35E78C5, 0(UPDATE_GOODS_FOR_PURCHASE), 2,revision not changed
+2025/02/11-02:03:41.151,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C5, 0(UPDATE_GOODS_FOR_PURCHASE), 99,transit, from:2(CHECK_REVISION), to:99(FIN)
+2025/02/11-02:03:41.151,GoodsJob.cpp,97,(debug),[job-mgr], job deregistered, id:0x01DB7BE5C35E78C5
+2025/02/11-02:04:11.134,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C6, 0(UPDATE_GOODS_FOR_PURCHASE), 2,transit, from:1(SETUP), to:2(CHECK_REVISION)
+2025/02/11-02:04:11.134,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:167, cmd:1913, type:1
+2025/02/11-02:04:11.134,UpdateGoodsForPurchase.cpp,202,(debug),[tranjob],0x01DB7BE5C35E78C6, 0(UPDATE_GOODS_FOR_PURCHASE), 2,check revision req sent, category-id:73
+2025/02/11-02:04:11.134,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:0, cmd:1002, type:1
+2025/02/11-02:04:11.137,NPChannel2.cpp,540,(debug),[np], sts msg received, np-tid:167, cmd:1913, type:2
+2025/02/11-02:04:11.137,UpdateGoodsForPurchase.cpp,235,(debug),[tranjob],0x01DB7BE5C35E78C6, 0(UPDATE_GOODS_FOR_PURCHASE), 2,revision not changed
+2025/02/11-02:04:11.137,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C6, 0(UPDATE_GOODS_FOR_PURCHASE), 99,transit, from:2(CHECK_REVISION), to:99(FIN)
+2025/02/11-02:04:11.137,GoodsJob.cpp,97,(debug),[job-mgr], job deregistered, id:0x01DB7BE5C35E78C6
+2025/02/11-02:04:41.111,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:0, cmd:1002, type:1
+2025/02/11-02:04:41.111,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C7, 0(UPDATE_GOODS_FOR_PURCHASE), 2,transit, from:1(SETUP), to:2(CHECK_REVISION)
+2025/02/11-02:04:41.112,NPChannel2.cpp,458,(debug),[np], sts msg sent, np-tid:168, cmd:1913, type:1
+2025/02/11-02:04:41.112,UpdateGoodsForPurchase.cpp,202,(debug),[tranjob],0x01DB7BE5C35E78C7, 0(UPDATE_GOODS_FOR_PURCHASE), 2,check revision req sent, category-id:73
+2025/02/11-02:04:41.141,NPChannel2.cpp,540,(debug),[np], sts msg received, np-tid:168, cmd:1913, type:2
+2025/02/11-02:04:41.141,UpdateGoodsForPurchase.cpp,235,(debug),[tranjob],0x01DB7BE5C35E78C7, 0(UPDATE_GOODS_FOR_PURCHASE), 2,revision not changed
+2025/02/11-02:04:41.141,TransactionJob.cpp,38,(debug),[tranjob],0x01DB7BE5C35E78C7, 0(UPDATE_GOODS_FOR_PURCHASE), 99,transit, from:2(CHECK_REVISION), to:99(FIN)
+2025/02/11-02:04:41.141,GoodsJob.cpp,97,(debug),[job-mgr], job deregistered, id:0x01DB7BE5C35E78C7

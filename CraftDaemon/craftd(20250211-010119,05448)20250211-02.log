@@ -1,0 +1,10 @@
+2025/02/11-02:04:42.046,CacheGateChannel.cpp,170,(debug),[channel], 0x0000000400000001, 10060, close
+2025/02/11-02:04:42.047,CacheGateChannel.cpp,174,(debug),[channel], 0x0000000400000001, 10060, disable service
+2025/02/11-02:04:42.048,CacheGateChannel.cpp,182,(debug),[channel], 0x0000000400000001, 10060, try reconnect
+2025/02/11-02:04:42.050,Session.cpp,515,(debug),[session], trying to reconnect after 5000 msec, id:400000001, this:0000000002ED0000, addr:(192.168.1.8:20800)
+2025/02/11-02:04:42.050,Session.cpp,694,(debug),[session], close called; don't remove session, id:400000001, this:0000000002ED0000, state:4
+2025/02/11-02:04:42.270,PostOfficeChannel.cpp,60,(debug),[channel], 0x0000000300000001, 10010, close
+2025/02/11-02:04:42.270,PostOfficeChannel.cpp,64,(debug),[channel], 0x0000000300000001, 10010, disable service
+2025/02/11-02:04:42.270,PostOfficeChannel.cpp,72,(debug),[channel], 0x0000000300000001, 10010, try reconnect
+2025/02/11-02:04:42.270,Session.cpp,515,(debug),[session], trying to reconnect after 5000 msec, id:300000001, this:0000000002F10000, addr:(192.168.1.8:20500)
+2025/02/11-02:04:42.270,Session.cpp,694,(debug),[session], close called; don't remove session, id:300000001, this:0000000002F10000, state:4

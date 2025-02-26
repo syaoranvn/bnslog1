@@ -1,0 +1,80 @@
+2025/02/11-01:01:19.590,Daemon.cpp,483,(debug),[craftd], Starting, daemon: Blade&Soul Craft Daemon, version: 0.0.210.409, desc: Blade&Soul Craft Daemon
+2025/02/11-01:01:19.590,Daemon.cpp,484,(debug),[craftd], Network Configuration, daemon: Blade&Soul Craft Daemon, hostname: DESKTOP-K8DLTUB, public: 0.0.0.0, internal: 192.168.1.8
+2025/02/11-01:01:19.839,UserManager.cpp,228,(debug),[user], user manager initialized, world-count:20000, hash-count:1
+2025/02/11-01:01:21.109,WorldChannel.cpp,527,(debug),[worldmgr], world session manager initialized, packet-handler-list:00007FF63A7C78D0, cmd-offset:0
+2025/02/11-01:01:21.112,WorldChannel.cpp,817,(debug),[worldmgr], world registered, wid:7801, ip:192.168.1.8, port:20100
+2025/02/11-01:01:21.112,WorldChannel.cpp,701,(notice),[worldmgr], world #7801 added, ip:192.168.1.8, port:20100
+2025/02/11-01:01:21.112,WorldChannel.cpp,707,(notice),[worldmgr], setup world list complete, world-count:1
+2025/02/11-01:01:21.112,WorldChannel.cpp,646,(notice),[worldmgr], setup world list with xml complete, xml:C:\Service\CraftDaemon\config\gamed-list.config.xml
+2025/02/11-01:01:21.112,Simulator.cpp,195,(debug),[simulator], start, resolution:500
+2025/02/11-01:01:21.112,CraftDaemon.cpp,346,(notice),[craftd], start to load uncomplete production data
+2025/02/11-01:01:21.119,ProductionDB.cpp,1363,(notice),[ProductionDB], uncomplete production count:0
+2025/02/11-01:01:21.119,CraftDaemon.cpp,355,(notice),[craftd], finished to load uncomplete production data, loading time:0(s)
+2025/02/11-01:01:21.119,Port.cpp,648,(debug),[session], created, port-id:4, session-id:400000001, session:0000000002ED0000
+2025/02/11-01:01:21.120,Connection.cpp,151,(debug),[session], test, reconnect, this:0000000002ED0188, addr:(192.168.1.8:55473)
+2025/02/11-01:01:21.120,Session.cpp,431,(debug),[session], connect to, port id: 4, id:400000001, this:0000000002ED0000, ip:192.168.1.8, port:20800
+2025/02/11-01:01:21.120,CacheGateChannel.cpp,156,(debug),[channel], 0x0000000400000001, 10060, connect
+2025/02/11-01:01:21.120,CacheGateChannel.cpp,89,(debug),[channel], 0x0000000400000001, 10060, send, cmd:1
+2025/02/11-01:01:21.120,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 1
+2025/02/11-01:01:21.120,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 1, session:0x0000000400000001, command:2
+2025/02/11-01:01:21.120,CacheGatePacketHandler.cpp,41,(debug),[channel], 0x0000000400000001, 10060, enable service
+2025/02/11-01:01:21.120,Reproducer.cpp,112,(error),[Reproducer], issue fail, postoffice(true) invalid instance
+2025/02/11-01:01:21.120,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 1, session:0x0000000400000001, command:2
+2025/02/11-01:01:21.120,CraftDaemon.cpp,388,(notice),[craftd], init cachegate channel ok
+2025/02/11-01:01:21.120,Port.cpp,648,(debug),[session], created, port-id:3, session-id:300000001, session:0000000002F10000
+2025/02/11-01:01:21.120,Connection.cpp,151,(debug),[session], test, reconnect, this:0000000002F10188, addr:(192.168.1.8:55474)
+2025/02/11-01:01:21.120,Session.cpp,431,(debug),[session], connect to, port id: 3, id:300000001, this:0000000002F10000, ip:192.168.1.8, port:20500
+2025/02/11-01:01:21.120,PostOfficeChannel.cpp,46,(debug),[channel], 0x0000000300000001, 10010, connect
+2025/02/11-01:01:21.120,PostOfficeChannel.cpp,182,(debug),[channel], 0x0000000300000001, 10010, send, cmd:1, postoffice-packet-version:15, postofficeagent-packet-version:0, economy-common-packet-version:10, connection-type:0
+2025/02/11-01:01:21.120,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 2
+2025/02/11-01:01:21.120,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 2, session:0x0000000300000001, command:2
+2025/02/11-01:01:21.120,PostOfficePacketHandler.cpp,36,(debug),[channel], 0x0000000300000001, 10010, enable service
+2025/02/11-01:01:21.120,CraftDaemon.cpp,406,(notice),[craftd], init postoffice channel ok
+2025/02/11-01:01:21.120,Reproducer.cpp,244,(notice),[Reproducer], issue ok
+2025/02/11-01:01:21.120,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 2, session:0x0000000300000001, command:2
+2025/02/11-01:01:21.124,CraftDaemon.cpp,417,(notice),[craftd], open manager port ok
+2025/02/11-01:01:21.128,CraftDaemon.cpp,428,(notice),[craftd], open world port ok
+2025/02/11-01:01:21.128,CraftDaemon.cpp,431,(debug),[craftd], ready
+2025/02/11-01:01:21.129,Daemon.cpp,530,(debug),[craftd], start, daemon: Blade&Soul Craft Daemon, version: 0.0.210.409, loading time: 1563
+2025/02/11-01:04:56.341,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -19, threshold: 0
+2025/02/11-01:05:08.444,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -12, threshold: 0
+2025/02/11-01:05:12.571,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -37, threshold: 0
+2025/02/11-01:06:37.953,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -28, threshold: 0
+2025/02/11-01:07:35.084,Port.cpp,648,(debug),[session], created, port-id:1, session-id:100000001, session:0000000001000000
+2025/02/11-01:07:35.084,WorldChannel.cpp,906,(notice),[channel], 0x0000000100000001, 0, accept
+2025/02/11-01:07:35.085,Session.cpp,471,(debug),[session], accepted from, port id: 1, session id:100000001, this:0000000001000000, ip:192.168.1.8, port:57033, socket:00000000000008A8
+2025/02/11-01:07:35.087,WorldChannel.cpp,952,(debug),[channel], 0x0000000100000001, 0, handle start, cmd:1
+2025/02/11-01:07:35.087,CraftServicePacketHandler.cpp,129,(notice),[channel], 0x0000000100000001, 7801, hello success, wid:7801, ip:192.168.1.8, port:20100
+2025/02/11-01:07:35.088,WorldChannel.cpp,954,(debug),[channel], 0x0000000100000001, 0, handle end, cmd:1
+2025/02/11-01:08:23.626,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -91, threshold: 0
+2025/02/11-01:08:23.626,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -100, threshold: 0
+2025/02/11-01:08:23.626,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: 0, threshold: 0
+2025/02/11-01:08:23.997,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -75, threshold: 0
+2025/02/11-01:10:41.584,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -34, threshold: 0
+2025/02/11-01:10:41.584,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -153, threshold: 0
+2025/02/11-01:10:41.584,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -53, threshold: 0
+2025/02/11-01:10:41.938,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -12, threshold: 0
+2025/02/11-01:10:42.132,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: 0, threshold: 0
+2025/02/11-01:10:42.617,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -84, threshold: 0
+2025/02/11-01:10:42.730,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -9, threshold: 0
+2025/02/11-01:10:44.128,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: 0, threshold: 0
+2025/02/11-01:10:44.346,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -19, threshold: 0
+2025/02/11-01:10:45.750,Daemon.cpp,992,(debug),[craftd], no wait; wait interval is less than threshold, wait: -25, threshold: 0
+2025/02/11-01:14:53.355,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 3
+2025/02/11-01:14:53.360,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 3, session:0x0000000100000001, command:22
+2025/02/11-01:14:53.361,CraftServicePacketHandler.cpp,844,(debug),[channel], 0x0000000100000001, 7801, [begin]; retrieveReservationProductionList, game-tid:0x0000000000000001, account:BA18E574-9C5C-4F51-A637-7E7E9057D860, wid:7801, pcdbid:0x00000000000000A4
+2025/02/11-01:14:53.362,CraftServicePacketHandler.cpp,870,(debug),[channel], 0x0000000100000001, 7801, fail to acquire user; retrieveReservationProductionList, game-tid:0x0000000000000001, account:BA18E574-9C5C-4F51-A637-7E7E9057D860, wid:7801, pcdbid:0x00000000000000A4
+2025/02/11-01:14:53.363,CraftServicePacketHandler.cpp,880,(debug),[channel], 0x0000000100000001, 7801, [end ok]; retrieveReservationProductionList, game-tid:0x0000000000000001, account:BA18E574-9C5C-4F51-A637-7E7E9057D860, wid:7801, pcdbid:0x00000000000000A4
+2025/02/11-01:14:53.363,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 3, session:0x0000000100000001, command:22
+2025/02/11-01:31:41.353,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 4
+2025/02/11-01:31:41.353,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 4, session:0x0000000100000001, command:22
+2025/02/11-01:31:41.353,CraftServicePacketHandler.cpp,844,(debug),[channel], 0x0000000100000001, 7801, [begin]; retrieveReservationProductionList, game-tid:0x0000000000000006, account:5D1BC14C-6DA9-471A-82A6-171D53183906, wid:7801, pcdbid:0x000000000000281F
+2025/02/11-01:31:41.353,CraftServicePacketHandler.cpp,870,(debug),[channel], 0x0000000100000001, 7801, fail to acquire user; retrieveReservationProductionList, game-tid:0x0000000000000006, account:5D1BC14C-6DA9-471A-82A6-171D53183906, wid:7801, pcdbid:0x000000000000281F
+2025/02/11-01:31:41.353,CraftServicePacketHandler.cpp,880,(debug),[channel], 0x0000000100000001, 7801, [end ok]; retrieveReservationProductionList, game-tid:0x0000000000000006, account:5D1BC14C-6DA9-471A-82A6-171D53183906, wid:7801, pcdbid:0x000000000000281F
+2025/02/11-01:31:41.353,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 4, session:0x0000000100000001, command:22
+2025/02/11-01:56:33.462,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 5
+2025/02/11-01:56:33.462,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 5, session:0x0000000100000001, command:22
+2025/02/11-01:56:33.462,CraftServicePacketHandler.cpp,844,(debug),[channel], 0x0000000100000001, 7801, [begin]; retrieveReservationProductionList, game-tid:0x0000000000000016, account:5D1BC14C-6DA9-471A-82A6-171D53183906, wid:7801, pcdbid:0x0000000000002820
+2025/02/11-01:56:33.462,CraftServicePacketHandler.cpp,870,(debug),[channel], 0x0000000100000001, 7801, fail to acquire user; retrieveReservationProductionList, game-tid:0x0000000000000016, account:5D1BC14C-6DA9-471A-82A6-171D53183906, wid:7801, pcdbid:0x0000000000002820
+2025/02/11-01:56:33.462,CraftServicePacketHandler.cpp,880,(debug),[channel], 0x0000000100000001, 7801, [end ok]; retrieveReservationProductionList, game-tid:0x0000000000000016, account:5D1BC14C-6DA9-471A-82A6-171D53183906, wid:7801, pcdbid:0x0000000000002820
+2025/02/11-01:56:33.462,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 5, session:0x0000000100000001, command:22

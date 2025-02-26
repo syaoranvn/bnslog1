@@ -1,0 +1,32 @@
+2025/02/11-02:00:00.556,AccumulateSeasonInterimScoreJobTimer.cpp,40,(debug),[accumulate season interim score job timer], AccumulateSeasonInterimScoreJobTimer::HandleEvent; currentTaskBaseTime:2025-02-11 02:00:00, duration:0, interval:600, ncextTaskBaseTime:2025-02-11 02:10:00
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 26
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 27
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 26, session:0x0000000200000001, command:9
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 27, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,GameChannel.cpp,70,(debug),[game-channel], SendRetrievePlayerRankingInfoOk, ret:true, tid:0xA4, seasonContentsType:1, playerType:1, playerId:0xA4, job:0, primaryScore:0x0, lastAccumulationRequestTime:0x0ranking:0, rankingPerJob:0, topRankerName:, topRankerId:0x0, topRankerPrimaryScore:0x0, topRankerRanking:0
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 27, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 28
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 28, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 29
+2025/02/11-02:04:02.135,GameChannel.cpp,70,(debug),[game-channel], SendRetrievePlayerRankingInfoOk, ret:true, tid:0xA4, seasonContentsType:3, playerType:1, playerId:0xA4, job:0, primaryScore:0x0, lastAccumulationRequestTime:0x0ranking:0, rankingPerJob:0, topRankerName:, topRankerId:0x0, topRankerPrimaryScore:0x0, topRankerRanking:0
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 28, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 30
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 29, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 31
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 32
+2025/02/11-02:04:02.135,GameChannel.cpp,70,(debug),[game-channel], SendRetrievePlayerRankingInfoOk, ret:true, tid:0xA4, seasonContentsType:4, playerType:1, playerId:0xA4, job:0, primaryScore:0x0, lastAccumulationRequestTime:0x0ranking:0, rankingPerJob:0, topRankerName:, topRankerId:0x0, topRankerPrimaryScore:0x0, topRankerRanking:0
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 33
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 29, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 30, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,GameChannel.cpp,70,(debug),[game-channel], SendRetrievePlayerRankingInfoOk, ret:true, tid:0xA4, seasonContentsType:5, playerType:1, playerId:0xA4, job:0, primaryScore:0x0, lastAccumulationRequestTime:0x0ranking:0, rankingPerJob:0, topRankerName:, topRankerId:0x0, topRankerPrimaryScore:0x0, topRankerRanking:0
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 30, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 32, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,GameChannel.cpp,70,(debug),[game-channel], SendRetrievePlayerRankingInfoOk, ret:true, tid:0xA4, seasonContentsType:7, playerType:1, playerId:0xA4, job:0, primaryScore:0x0, lastAccumulationRequestTime:0x0ranking:0, rankingPerJob:0, topRankerName:, topRankerId:0x0, topRankerPrimaryScore:0x0, topRankerRanking:0
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 32, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 31, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,GameChannel.cpp,70,(debug),[game-channel], SendRetrievePlayerRankingInfoOk, ret:true, tid:0xA4, seasonContentsType:6, playerType:1, playerId:0xA4, job:0, primaryScore:0x0, lastAccumulationRequestTime:0x0ranking:0, rankingPerJob:0, topRankerName:, topRankerId:0x0, topRankerPrimaryScore:0x0, topRankerRanking:0
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 31, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 33, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.135,GameChannel.cpp,70,(debug),[game-channel], SendRetrievePlayerRankingInfoOk, ret:true, tid:0xA4, seasonContentsType:9, playerType:1, playerId:0xA4, job:0, primaryScore:0x0, lastAccumulationRequestTime:0x0ranking:0, rankingPerJob:0, topRankerName:, topRankerId:0x0, topRankerPrimaryScore:0x0, topRankerRanking:0
+2025/02/11-02:04:02.135,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 33, session:0x0000000200000001, command:6
+2025/02/11-02:04:02.163,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 26, session:0x0000000200000001, command:9

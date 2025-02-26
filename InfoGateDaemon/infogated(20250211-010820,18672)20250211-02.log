@@ -1,0 +1,199 @@
+2025/02/11-02:00:01.722,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:01.722,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:01.722,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:06.731,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:06.731,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:06.731,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:11.708,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:11.709,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:11.709,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:16.707,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:16.707,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:16.707,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:21.712,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:21.712,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:21.712,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:26.720,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:26.720,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:26.720,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:26.803,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000005
+2025/02/11-02:00:27.623,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000001
+2025/02/11-02:00:31.729,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:31.729,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:31.729,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:36.726,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:36.726,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:36.726,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:41.701,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:41.701,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:41.701,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:46.724,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:46.724,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:46.724,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:51.716,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:51.717,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:51.717,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:56.710,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:00:56.710,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:00:56.710,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:00:58.462,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000001
+2025/02/11-02:00:58.983,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000005
+2025/02/11-02:01:01.723,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:01.723,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:01.723,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:06.711,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:06.711,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:06.711,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:11.720,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:11.720,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:11.720,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:16.715,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:16.715,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:16.715,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:21.713,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:21.713,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:21.713,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:26.714,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:26.714,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:26.714,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:28.530,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000001
+2025/02/11-02:01:31.398,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000005
+2025/02/11-02:01:31.713,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:31.713,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:31.713,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:36.726,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:36.726,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:36.726,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:41.736,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:41.736,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:41.736,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:46.735,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:46.735,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:46.735,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:51.736,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:51.736,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:51.736,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:01:56.733,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:01:56.733,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:01:56.733,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:01.492,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000001
+2025/02/11-02:02:01.710,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:01.710,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:01.710,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:01.980,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000005
+2025/02/11-02:02:06.738,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:06.738,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:06.738,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:11.725,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:11.725,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:11.727,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:16.711,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:16.711,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:16.711,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:21.728,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:21.728,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:21.728,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:26.720,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:26.720,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:26.720,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:31.705,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:31.705,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:31.705,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:32.295,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000005
+2025/02/11-02:02:32.657,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000001
+2025/02/11-02:02:36.710,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:36.713,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:36.713,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:41.712,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:41.712,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:41.712,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:46.705,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:46.705,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:46.707,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:51.748,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:51.748,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:51.748,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:02:56.708,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:02:56.708,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:02:56.708,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:01.737,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:01.737,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:01.737,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:02.758,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000001
+2025/02/11-02:03:04.758,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000005
+2025/02/11-02:03:06.715,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:06.715,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:06.715,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:11.713,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:11.713,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:11.713,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:16.724,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:16.724,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:16.724,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:21.723,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:21.723,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:21.723,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:26.748,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:26.748,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:26.748,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:31.727,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:31.727,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:31.727,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:34.190,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000001
+2025/02/11-02:03:36.169,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000005
+2025/02/11-02:03:36.725,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:36.725,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:36.725,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:41.734,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:41.735,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:41.735,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:46.718,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:46.718,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:46.718,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:51.729,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:51.729,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:51.729,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:03:56.726,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:03:56.726,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:03:56.726,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:04:01.723,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:04:01.723,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:04:01.723,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:04:05.164,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000001
+2025/02/11-02:04:06.709,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:04:06.709,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:04:06.709,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:04:11.721,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:04:11.721,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:04:11.721,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:04:16.724,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:04:16.724,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:04:16.724,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:04:16.812,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000005
+2025/02/11-02:04:21.748,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:04:21.748,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:04:21.748,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:04:26.715,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:04:26.715,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:04:26.715,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:04:31.791,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:04:31.791,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:04:31.791,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:04:36.714,InfoGatePacketHandler.cpp,91,(debug),[client], handle ping-req ok, session-id:0x200000001
+2025/02/11-02:04:36.718,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:04:36.718,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:04:36.718,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:04:41.202,RankingChannel.cpp,125,(error),[ranking], channel closed, session-id:0x300000001
+2025/02/11-02:04:41.202,RankingChannel.cpp,127,(error),[ranking], all channels closed
+2025/02/11-02:04:41.202,Session.cpp,689,(debug),[session], close called; remove session, id:300000001, this:00000000681D0000, state:0
+2025/02/11-02:04:41.202,Port.cpp,476,(debug),[session], removed, port-id:3, session-id:300000001, session:00000000681D0000
+2025/02/11-02:04:41.708,LobbyChannel.cpp,204,(debug),[lobby-world-info-requestor], send get world info list req ok
+2025/02/11-02:04:41.708,GameDB.cpp,162,(debug),[gamedb] set db id by world id, ignored world, id:7801, dbId:3
+2025/02/11-02:04:41.708,LobbyInfoGatePacketHandler.cpp,293,(debug),[lobby], handle get-world-info-list-ok ok, session-id:0x100000001
+2025/02/11-02:04:42.584,LobbyChannel.cpp,96,(error),[lobby], channel closed, session-id:0x100000001
+2025/02/11-02:04:42.584,LobbyChannel.cpp,98,(error),[lobby], all channels closed
+2025/02/11-02:04:42.584,Session.cpp,689,(debug),[session], close called; remove session, id:100000001, this:0000000068230000, state:0
+2025/02/11-02:04:42.584,Port.cpp,476,(debug),[session], removed, port-id:1, session-id:100000001, session:0000000068230000
+2025/02/11-02:04:44.809,InfoGateDaemon.cpp,78,(debug),[client], session closed; user-session closed, session-id:0x200000001, user-session-id:0x1, user-id:00000060-0000-0000-0000-000000000000
+2025/02/11-02:04:44.809,Session.cpp,689,(debug),[session], close called; remove session, id:200000001, this:0000000003350000, state:0
+2025/02/11-02:04:44.809,Port.cpp,476,(debug),[session], removed, port-id:2, session-id:200000001, session:0000000003350000

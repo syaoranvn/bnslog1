@@ -1,0 +1,175 @@
+2025/02/11-01:01:27.897,TransactionJob.cpp,434,(notice),[tranjob],setup transaction log
+2025/02/11-01:01:27.939,Daemon.cpp,483,(debug),[marketA], Starting, daemon: Blade&Soul Market Agent, version: 0.0.210.380, desc: Blade&Soul Market Agent
+2025/02/11-01:01:27.939,Daemon.cpp,484,(debug),[marketA], Network Configuration, daemon: Blade&Soul Market Agent, hostname: DESKTOP-K8DLTUB, public: 0.0.0.0, internal: 192.168.1.8
+2025/02/11-01:01:27.939,DaemonConfig.cpp,132,(debug),[marketagent config], ==== path ====
+2025/02/11-01:01:27.939,DaemonConfig.cpp,156,(debug),[marketagent config], root-path : C:\Service\MarketDealerAgent\
+2025/02/11-01:01:27.939,DaemonConfig.cpp,156,(debug),[marketagent config], log-path : C:\log\MarketDealerAgent\
+2025/02/11-01:01:27.939,DaemonConfig.cpp,156,(debug),[marketagent config], config-path : C:\Service\MarketDealerAgent\config\
+2025/02/11-01:01:27.939,DaemonConfig.cpp,156,(debug),[marketagent config], transaction-log-path : C:\log\MarketDealerAgent\transaction\
+2025/02/11-01:01:27.939,DaemonConfig.cpp,132,(debug),[marketagent config], ==== system configuration ====
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], worker-thread : 0
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], max-world-session-count : 1000
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], max-proxy-session-count : 0
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], transaction-timeout : 30000
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], transaction-hash-count : 64
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], dump-type : 2
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], service-mode : 1
+2025/02/11-01:01:27.939,DaemonConfig.cpp,132,(debug),[marketagent config], ==== marketagent network configuration ====
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], internal-port : 20601
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], manage-port : 30600
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], world-port : 20600
+2025/02/11-01:01:27.939,DaemonConfig.cpp,144,(debug),[marketagent config], proxy-enable : no
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], proxy-port : 20700
+2025/02/11-01:01:27.939,DaemonConfig.cpp,132,(debug),[marketagent config], ==== postoffice network configuration ====
+2025/02/11-01:01:27.939,DaemonConfig.cpp,141,(debug),[marketagent config], postoffice-wid : 10010
+2025/02/11-01:01:27.941,DaemonConfig.cpp,148,(debug),[marketagent config], postoffice-address : 192.168.1.8
+2025/02/11-01:01:27.941,DaemonConfig.cpp,141,(debug),[marketagent config], postoffice-port : 20500
+2025/02/11-01:01:27.941,DaemonConfig.cpp,132,(debug),[marketagent config], ==== cachegate network configuration ====
+2025/02/11-01:01:27.941,DaemonConfig.cpp,141,(debug),[marketagent config], cachegate-wid : 10060
+2025/02/11-01:01:27.942,DaemonConfig.cpp,148,(debug),[marketagent config], cachegate-address : 192.168.1.8
+2025/02/11-01:01:27.942,DaemonConfig.cpp,141,(debug),[marketagent config], cachegate-port : 20800
+2025/02/11-01:01:27.942,DaemonConfig.cpp,132,(debug),[marketagent config], ==== marketdealer network configuration ====
+2025/02/11-01:01:27.942,DaemonConfig.cpp,141,(debug),[marketagent config], marketdealer-wid : 10030
+2025/02/11-01:01:27.944,DaemonConfig.cpp,148,(debug),[marketagent config], marketdealer-address : 192.168.1.8
+2025/02/11-01:01:27.944,DaemonConfig.cpp,141,(debug),[marketagent config], marketdealer-port : 20300
+2025/02/11-01:01:27.944,DaemonConfig.cpp,132,(debug),[marketagent config], ==== marketreader network configuration ====
+2025/02/11-01:01:27.944,DaemonConfig.cpp,141,(debug),[marketagent config], marketreader-wid : 10040
+2025/02/11-01:01:27.946,DaemonConfig.cpp,148,(debug),[marketagent config], marketreader-address : 192.168.1.8
+2025/02/11-01:01:27.946,DaemonConfig.cpp,141,(debug),[marketagent config], marketreader-port : 20400
+2025/02/11-01:01:27.946,DaemonConfig.cpp,132,(debug),[marketagent config], ==== agent configuration ====
+2025/02/11-01:01:27.946,DaemonConfig.cpp,141,(debug),[marketagent config], agent-id : 11030
+2025/02/11-01:01:27.946,MarketAgent.cpp,323,(debug),[agent], initial job-id seed value: 0x01DB7BE5CE7B16F4
+2025/02/11-01:01:27.946,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:304, initial-capacity:1000
+2025/02/11-01:01:27.946,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:10
+2025/02/11-01:01:27.947,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:120, initial-capacity:1000
+2025/02/11-01:01:27.947,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:11
+2025/02/11-01:01:27.947,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:152, initial-capacity:1000
+2025/02/11-01:01:27.947,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:12
+2025/02/11-01:01:27.947,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:128, initial-capacity:1000
+2025/02/11-01:01:27.947,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:13
+2025/02/11-01:01:27.947,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:120, initial-capacity:1000
+2025/02/11-01:01:27.947,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:14
+2025/02/11-01:01:27.948,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:296, initial-capacity:1000
+2025/02/11-01:01:27.948,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:15
+2025/02/11-01:01:27.948,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:128, initial-capacity:1000
+2025/02/11-01:01:27.948,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:16
+2025/02/11-01:01:27.948,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:144, initial-capacity:1000
+2025/02/11-01:01:27.948,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:17
+2025/02/11-01:01:27.948,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:144, initial-capacity:1000
+2025/02/11-01:01:27.948,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:18
+2025/02/11-01:01:27.949,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:128, initial-capacity:1000
+2025/02/11-01:01:27.949,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:19
+2025/02/11-01:01:27.949,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:296, initial-capacity:1000
+2025/02/11-01:01:27.949,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:20
+2025/02/11-01:01:27.949,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:128, initial-capacity:1000
+2025/02/11-01:01:27.949,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:21
+2025/02/11-01:01:27.949,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:144, initial-capacity:1000
+2025/02/11-01:01:27.949,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:22
+2025/02/11-01:01:27.952,ObjectPool.cpp,167,(debug),[objpool], initialized, obj-size:2448, initial-capacity:1000
+2025/02/11-01:01:27.952,ObjectPool.cpp,394,(notice),[objpool], objpool added to timer, id:23
+2025/02/11-01:01:28.979,WorldChannel.cpp,2139,(debug),[worldmgr], world session manager initialized, packet-handler-list:00007FF6FA074520, cmd-offset:0
+2025/02/11-01:01:28.982,WorldChannel.cpp,2429,(debug),[worldmgr], world registered, wid:7801, ip:192.168.1.8, port:20100
+2025/02/11-01:01:28.982,WorldChannel.cpp,2313,(notice),[worldmgr], world #7801 added, ip:192.168.1.8, port:20100
+2025/02/11-01:01:28.982,WorldChannel.cpp,2319,(notice),[worldmgr], setup world list complete, world-count:1
+2025/02/11-01:01:28.982,WorldChannel.cpp,2258,(notice),[worldmgr], setup world list with xml complete, xml:C:\Service\MarketDealerAgent\config\gamed-list.config.xml
+2025/02/11-01:01:28.983,Port.cpp,648,(debug),[session], created, port-id:2, session-id:200000001, session:0000000005BA0000
+2025/02/11-01:01:28.983,Connection.cpp,151,(debug),[session], test, reconnect, this:0000000005BA0188, addr:(192.168.1.8:55479)
+2025/02/11-01:01:28.983,Session.cpp,431,(debug),[session], connect to, port id: 2, id:200000001, this:0000000005BA0000, ip:192.168.1.8, port:20800
+2025/02/11-01:01:28.983,CacheGateChannel.cpp,153,(debug),[channel], 0x0000000200000001, 10060, connect
+2025/02/11-01:01:28.983,CacheGateChannel.cpp,89,(debug),[channel], 0x0000000200000001, 10060, send, cmd:1
+2025/02/11-01:01:28.983,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 1
+2025/02/11-01:01:28.983,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 1, session:0x0000000200000001, command:2
+2025/02/11-01:01:28.983,CacheGatePacketHandler.cpp,40,(debug),[channel], 0x0000000200000001, 10060, enable service
+2025/02/11-01:01:28.983,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 1, session:0x0000000200000001, command:2
+2025/02/11-01:01:28.983,MarketAgent.cpp,458,(debug),[agent], init cachegate channel ok
+2025/02/11-01:01:28.983,Port.cpp,648,(debug),[session], created, port-id:3, session-id:300000001, session:0000000005BE0000
+2025/02/11-01:01:28.984,Connection.cpp,151,(debug),[session], test, reconnect, this:0000000005BE0188, addr:(192.168.1.8:55480)
+2025/02/11-01:01:28.984,Session.cpp,431,(debug),[session], connect to, port id: 3, id:300000001, this:0000000005BE0000, ip:192.168.1.8, port:20500
+2025/02/11-01:01:28.984,PostOfficeChannel.cpp,47,(debug),[channel], 0x0000000300000001, 10010, connect
+2025/02/11-01:01:28.984,PostOfficeChannel.cpp,188,(debug),[channel], 0x0000000300000001, 10010, send, cmd:1, postoffice-packet-version:15, postofficeagent-packet-version:0, economy-common-packet-version:10, connection-type:0
+2025/02/11-01:01:28.984,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 2
+2025/02/11-01:01:28.984,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 2, session:0x0000000300000001, command:2
+2025/02/11-01:01:28.984,PostOfficePacketHandler.cpp,38,(debug),[channel], 0x0000000300000001, 10010, enable service
+2025/02/11-01:01:28.984,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 2, session:0x0000000300000001, command:2
+2025/02/11-01:01:28.984,MarketAgent.cpp,474,(debug),[agent], init postoffice channel ok
+2025/02/11-01:01:28.984,Port.cpp,648,(debug),[session], created, port-id:4, session-id:400000001, session:0000000005C00000
+2025/02/11-01:01:28.985,Connection.cpp,151,(debug),[session], test, reconnect, this:0000000005C00188, addr:(192.168.1.8:55481)
+2025/02/11-01:01:28.985,Session.cpp,431,(debug),[session], connect to, port id: 4, id:400000001, this:0000000005C00000, ip:192.168.1.8, port:20300
+2025/02/11-01:01:28.985,MarketDealerChannel.cpp,44,(debug),[channel], 0x0000000400000001, 10030, connect
+2025/02/11-01:01:28.985,MarketDealerChannel.cpp,210,(debug),[channel], 0x0000000400000001, 10030, send, cmd:1, marketdealer-packet-version:14, marketagent-packet-version:8, economy-common-packet-version:10, agent-wid:11030, connectionType:1
+2025/02/11-01:01:28.985,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 3
+2025/02/11-01:01:28.985,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 3, session:0x0000000400000001, command:2
+2025/02/11-01:01:28.985,MarketDealerPacketHandler.cpp,32,(debug),[channel], 0x0000000400000001, 10030, hello ok
+2025/02/11-01:01:28.985,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 3, session:0x0000000400000001, command:2
+2025/02/11-01:01:28.985,MarketAgent.cpp,490,(debug),[agent], init marketdealer channel ok
+2025/02/11-01:01:28.989,MarketAgent.cpp,500,(debug),[agent], open world port ok
+2025/02/11-01:01:28.989,MarketAgent.cpp,555,(debug),[agent], network initialized
+2025/02/11-01:01:28.989,ObjectPool.cpp,373,(debug),[objpool], objpool timer start, resolution:1000
+2025/02/11-01:01:28.990,MarketAgent.cpp,582,(debug),[agent], ready
+2025/02/11-01:01:28.991,Daemon.cpp,530,(debug),[marketA], start, daemon: Blade&Soul Market Agent, version: 0.0.210.380, loading time: 1109
+2025/02/11-01:07:35.458,Port.cpp,648,(debug),[session], created, port-id:1, session-id:100000001, session:0000000000930000
+2025/02/11-01:07:35.458,WorldChannel.cpp,2518,(notice),[channel], 0x0000000100000001, 0, accept
+2025/02/11-01:07:35.458,Session.cpp,471,(debug),[session], accepted from, port id: 1, session id:100000001, this:0000000000930000, ip:192.168.1.8, port:57035, socket:0000000000000600
+2025/02/11-01:07:35.458,WorldChannel.cpp,2564,(debug),[channel], 0x0000000100000001, 0, handle start, cmd:1
+2025/02/11-01:07:35.458,MarketServicePacketHandler.cpp,132,(notice),[world], hello success, wid:7801, ip:192.168.1.8, port:20100
+2025/02/11-01:07:35.458,WorldChannel.cpp,2566,(debug),[channel], 0x0000000100000001, 0, handle end, cmd:1
+2025/02/11-01:14:53.354,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 4
+2025/02/11-01:14:53.355,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 4, session:0x0000000100000001, command:55
+2025/02/11-01:14:53.359,MarketServicePacketHandler.cpp,1443,(debug),[world], recv, from:world(7801), cmd:55, game-tid:0x0000000000000001, wid:7801, pcdbid:0x00000000000000A4
+2025/02/11-01:14:53.361,MarketDealerChannel.cpp,978,(debug),[channel], 0x0000000400000001, 10030, send ok, cmd:70, tid:0x0000000000000001, wid:7801, pc-id:0x00000000000000A4
+2025/02/11-01:14:53.361,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 4, session:0x0000000100000001, command:55
+2025/02/11-01:14:53.694,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 5
+2025/02/11-01:14:53.694,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 5, session:0x0000000400000001, command:71
+2025/02/11-01:14:53.694,MarketDealerPacketHandler.cpp,1940,(debug),[channel], 0x0000000400000001, 10030, recv, cmd:71, tid:0x0000000000000001, wid:7801, pcdbid:0x00000000000000A4, reservation-count:0
+2025/02/11-01:14:53.694,WorldChannel.cpp,1960,(debug),[channel], 0x0000000100000001, 7801, send ok, cmd:56, game-tid:1, pcdbid:0x00000000000000A4, reservation-count:0
+2025/02/11-01:14:53.694,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 5, session:0x0000000400000001, command:71
+2025/02/11-01:15:49.865,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 6
+2025/02/11-01:15:49.865,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 6, session:0x0000000100000001, command:7
+2025/02/11-01:15:49.866,MarketServicePacketHandler.cpp,247,(debug),[world], recv, from:world(7801), cmd:7, game-tid:0x0001000000000001, wid:7801, bidder-pcdbid:0x00000000000000A4
+2025/02/11-01:15:49.866,MarketDealerChannel.cpp,894,(debug),[channel], 0x0000000400000001, 10030, send, cmd:7
+2025/02/11-01:15:49.866,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 6, session:0x0000000100000001, command:7
+2025/02/11-01:15:49.890,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 7
+2025/02/11-01:15:49.890,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 7, session:0x0000000400000001, command:8
+2025/02/11-01:15:49.890,MarketDealerPacketHandler.cpp,349,(debug),[channel], 0x0000000400000001, 10030, recv, cmd:8, tid:0x0001000000000001, wid:7801, bidder-pcdbid:0x00000000000000A4, bid-info-count:0
+2025/02/11-01:15:49.890,WorldChannel.cpp,1646,(debug),[channel], 0x0000000100000001, 7801, send, cmd:8, game-tid:281474976710657
+2025/02/11-01:15:49.890,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 7, session:0x0000000400000001, command:8
+2025/02/11-01:31:41.353,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 8
+2025/02/11-01:31:41.353,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 8, session:0x0000000100000001, command:55
+2025/02/11-01:31:41.353,MarketServicePacketHandler.cpp,1443,(debug),[world], recv, from:world(7801), cmd:55, game-tid:0x0000000000000006, wid:7801, pcdbid:0x000000000000281F
+2025/02/11-01:31:41.353,MarketDealerChannel.cpp,978,(debug),[channel], 0x0000000400000001, 10030, send ok, cmd:70, tid:0x0000000000000006, wid:7801, pc-id:0x000000000000281F
+2025/02/11-01:31:41.353,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 8, session:0x0000000100000001, command:55
+2025/02/11-01:31:41.390,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 9
+2025/02/11-01:31:41.390,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 9, session:0x0000000400000001, command:71
+2025/02/11-01:31:41.390,MarketDealerPacketHandler.cpp,1940,(debug),[channel], 0x0000000400000001, 10030, recv, cmd:71, tid:0x0000000000000006, wid:7801, pcdbid:0x000000000000281F, reservation-count:0
+2025/02/11-01:31:41.390,WorldChannel.cpp,1960,(debug),[channel], 0x0000000100000001, 7801, send ok, cmd:56, game-tid:6, pcdbid:0x000000000000281F, reservation-count:0
+2025/02/11-01:31:41.390,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 9, session:0x0000000400000001, command:71
+2025/02/11-01:32:15.135,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 10
+2025/02/11-01:32:15.135,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 10, session:0x0000000100000001, command:7
+2025/02/11-01:32:15.135,MarketServicePacketHandler.cpp,247,(debug),[world], recv, from:world(7801), cmd:7, game-tid:0x0001000000000002, wid:7801, bidder-pcdbid:0x000000000000281F
+2025/02/11-01:32:15.136,MarketDealerChannel.cpp,894,(debug),[channel], 0x0000000400000001, 10030, send, cmd:7
+2025/02/11-01:32:15.136,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 10, session:0x0000000100000001, command:7
+2025/02/11-01:32:15.145,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 11
+2025/02/11-01:32:15.145,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 11, session:0x0000000400000001, command:8
+2025/02/11-01:32:15.145,MarketDealerPacketHandler.cpp,349,(debug),[channel], 0x0000000400000001, 10030, recv, cmd:8, tid:0x0001000000000002, wid:7801, bidder-pcdbid:0x000000000000281F, bid-info-count:0
+2025/02/11-01:32:15.145,WorldChannel.cpp,1646,(debug),[channel], 0x0000000100000001, 7801, send, cmd:8, game-tid:281474976710658
+2025/02/11-01:32:15.145,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 11, session:0x0000000400000001, command:8
+2025/02/11-01:56:33.461,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 12
+2025/02/11-01:56:33.461,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 12, session:0x0000000100000001, command:55
+2025/02/11-01:56:33.461,MarketServicePacketHandler.cpp,1443,(debug),[world], recv, from:world(7801), cmd:55, game-tid:0x0000000000000016, wid:7801, pcdbid:0x0000000000002820
+2025/02/11-01:56:33.462,MarketDealerChannel.cpp,978,(debug),[channel], 0x0000000400000001, 10030, send ok, cmd:70, tid:0x0000000000000016, wid:7801, pc-id:0x0000000000002820
+2025/02/11-01:56:33.462,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 12, session:0x0000000100000001, command:55
+2025/02/11-01:56:33.787,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 13
+2025/02/11-01:56:33.787,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 13, session:0x0000000400000001, command:71
+2025/02/11-01:56:33.787,MarketDealerPacketHandler.cpp,1940,(debug),[channel], 0x0000000400000001, 10030, recv, cmd:71, tid:0x0000000000000016, wid:7801, pcdbid:0x0000000000002820, reservation-count:0
+2025/02/11-01:56:33.787,WorldChannel.cpp,1960,(debug),[channel], 0x0000000100000001, 7801, send ok, cmd:56, game-tid:22, pcdbid:0x0000000000002820, reservation-count:0
+2025/02/11-01:56:33.787,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 13, session:0x0000000400000001, command:71
+2025/02/11-01:56:54.685,ThreadFreePacketPump.cpp,187,(debug),[packet-pump], post, 14
+2025/02/11-01:56:54.685,ThreadFreePacketPump.cpp,87,(debug),[packet-pump], handle start, 14, session:0x0000000100000001, command:7
+2025/02/11-01:56:54.685,MarketServicePacketHandler.cpp,247,(debug),[world], recv, from:world(7801), cmd:7, game-tid:0x0001000000000003, wid:7801, bidder-pcdbid:0x0000000000002820
+2025/02/11-01:56:54.685,MarketDealerChannel.cpp,894,(debug),[channel], 0x0000000400000001, 10030, send, cmd:7
+2025/02/11-01:56:54.685,ThreadFreePacketPump.cpp,93,(debug),[packet-pump], handle end, 14, session:0x0000000100000001, command:7
+2025/02/11-01:56:54.732,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 15
+2025/02/11-01:56:54.732,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 15, session:0x0000000400000001, command:8
+2025/02/11-01:56:54.732,MarketDealerPacketHandler.cpp,349,(debug),[channel], 0x0000000400000001, 10030, recv, cmd:8, tid:0x0001000000000003, wid:7801, bidder-pcdbid:0x0000000000002820, bid-info-count:0
+2025/02/11-01:56:54.732,WorldChannel.cpp,1646,(debug),[channel], 0x0000000100000001, 7801, send, cmd:8, game-tid:281474976710659
+2025/02/11-01:56:54.732,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 15, session:0x0000000400000001, command:8

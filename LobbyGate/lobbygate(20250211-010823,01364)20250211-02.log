@@ -1,0 +1,229 @@
+2025/02/11-02:00:04.466,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 652
+2025/02/11-02:00:04.466,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 652, session:0x0000000200000001, command:4
+2025/02/11-02:00:04.466,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:04.466,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 652, session:0x0000000200000001, command:4
+2025/02/11-02:00:09.468,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 653
+2025/02/11-02:00:09.468,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 653, session:0x0000000200000001, command:4
+2025/02/11-02:00:09.468,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:09.468,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 653, session:0x0000000200000001, command:4
+2025/02/11-02:00:14.485,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 654
+2025/02/11-02:00:14.485,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 654, session:0x0000000200000001, command:4
+2025/02/11-02:00:14.485,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:14.485,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 654, session:0x0000000200000001, command:4
+2025/02/11-02:00:19.487,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 655
+2025/02/11-02:00:19.487,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 655, session:0x0000000200000001, command:4
+2025/02/11-02:00:19.487,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:19.487,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 655, session:0x0000000200000001, command:4
+2025/02/11-02:00:24.475,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 656
+2025/02/11-02:00:24.475,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 656, session:0x0000000200000001, command:4
+2025/02/11-02:00:24.475,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:24.475,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 656, session:0x0000000200000001, command:4
+2025/02/11-02:00:29.473,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 657
+2025/02/11-02:00:29.473,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 657, session:0x0000000200000001, command:4
+2025/02/11-02:00:29.473,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:29.473,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 657, session:0x0000000200000001, command:4
+2025/02/11-02:00:34.473,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 658
+2025/02/11-02:00:34.473,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 658, session:0x0000000200000001, command:4
+2025/02/11-02:00:34.473,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:34.473,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 658, session:0x0000000200000001, command:4
+2025/02/11-02:00:39.473,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 659
+2025/02/11-02:00:39.473,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 659, session:0x0000000200000001, command:4
+2025/02/11-02:00:39.473,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:39.473,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 659, session:0x0000000200000001, command:4
+2025/02/11-02:00:44.483,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 660
+2025/02/11-02:00:44.483,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 660, session:0x0000000200000001, command:4
+2025/02/11-02:00:44.483,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:44.483,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 660, session:0x0000000200000001, command:4
+2025/02/11-02:00:49.479,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 661
+2025/02/11-02:00:49.479,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 661, session:0x0000000200000001, command:4
+2025/02/11-02:00:49.479,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:49.479,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 661, session:0x0000000200000001, command:4
+2025/02/11-02:00:54.477,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 662
+2025/02/11-02:00:54.477,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 662, session:0x0000000200000001, command:4
+2025/02/11-02:00:54.477,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:54.477,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 662, session:0x0000000200000001, command:4
+2025/02/11-02:00:59.471,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 663
+2025/02/11-02:00:59.471,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 663, session:0x0000000200000001, command:4
+2025/02/11-02:00:59.471,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:00:59.471,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 663, session:0x0000000200000001, command:4
+2025/02/11-02:01:04.492,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 664
+2025/02/11-02:01:04.492,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 664, session:0x0000000200000001, command:4
+2025/02/11-02:01:04.492,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:04.492,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 664, session:0x0000000200000001, command:4
+2025/02/11-02:01:09.480,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 665
+2025/02/11-02:01:09.480,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 665, session:0x0000000200000001, command:4
+2025/02/11-02:01:09.480,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:09.480,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 665, session:0x0000000200000001, command:4
+2025/02/11-02:01:14.475,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 666
+2025/02/11-02:01:14.475,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 666, session:0x0000000200000001, command:4
+2025/02/11-02:01:14.475,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:14.475,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 666, session:0x0000000200000001, command:4
+2025/02/11-02:01:19.493,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 667
+2025/02/11-02:01:19.494,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 667, session:0x0000000200000001, command:4
+2025/02/11-02:01:19.494,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:19.494,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 667, session:0x0000000200000001, command:4
+2025/02/11-02:01:24.481,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 668
+2025/02/11-02:01:24.481,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 668, session:0x0000000200000001, command:4
+2025/02/11-02:01:24.481,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:24.481,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 668, session:0x0000000200000001, command:4
+2025/02/11-02:01:29.475,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 669
+2025/02/11-02:01:29.475,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 669, session:0x0000000200000001, command:4
+2025/02/11-02:01:29.475,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:29.475,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 669, session:0x0000000200000001, command:4
+2025/02/11-02:01:34.472,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 670
+2025/02/11-02:01:34.472,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 670, session:0x0000000200000001, command:4
+2025/02/11-02:01:34.472,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:34.472,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 670, session:0x0000000200000001, command:4
+2025/02/11-02:01:39.474,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 671
+2025/02/11-02:01:39.474,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 671, session:0x0000000200000001, command:4
+2025/02/11-02:01:39.474,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:39.474,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 671, session:0x0000000200000001, command:4
+2025/02/11-02:01:44.473,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 672
+2025/02/11-02:01:44.473,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 672, session:0x0000000200000001, command:4
+2025/02/11-02:01:44.473,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:44.473,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 672, session:0x0000000200000001, command:4
+2025/02/11-02:01:49.490,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 673
+2025/02/11-02:01:49.490,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 673, session:0x0000000200000001, command:4
+2025/02/11-02:01:49.490,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:49.490,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 673, session:0x0000000200000001, command:4
+2025/02/11-02:01:54.476,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 674
+2025/02/11-02:01:54.476,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 674, session:0x0000000200000001, command:4
+2025/02/11-02:01:54.476,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:54.476,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 674, session:0x0000000200000001, command:4
+2025/02/11-02:01:59.482,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 675
+2025/02/11-02:01:59.482,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 675, session:0x0000000200000001, command:4
+2025/02/11-02:01:59.482,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:01:59.482,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 675, session:0x0000000200000001, command:4
+2025/02/11-02:02:04.485,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 676
+2025/02/11-02:02:04.485,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 676, session:0x0000000200000001, command:4
+2025/02/11-02:02:04.485,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:04.485,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 676, session:0x0000000200000001, command:4
+2025/02/11-02:02:09.482,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 677
+2025/02/11-02:02:09.482,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 677, session:0x0000000200000001, command:4
+2025/02/11-02:02:09.482,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:09.482,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 677, session:0x0000000200000001, command:4
+2025/02/11-02:02:14.488,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 678
+2025/02/11-02:02:14.488,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 678, session:0x0000000200000001, command:4
+2025/02/11-02:02:14.488,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:14.488,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 678, session:0x0000000200000001, command:4
+2025/02/11-02:02:19.489,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 679
+2025/02/11-02:02:19.489,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 679, session:0x0000000200000001, command:4
+2025/02/11-02:02:19.489,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:19.489,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 679, session:0x0000000200000001, command:4
+2025/02/11-02:02:24.476,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 680
+2025/02/11-02:02:24.476,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 680, session:0x0000000200000001, command:4
+2025/02/11-02:02:24.476,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:24.476,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 680, session:0x0000000200000001, command:4
+2025/02/11-02:02:29.488,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 681
+2025/02/11-02:02:29.488,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 681, session:0x0000000200000001, command:4
+2025/02/11-02:02:29.488,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:29.488,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 681, session:0x0000000200000001, command:4
+2025/02/11-02:02:34.476,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 682
+2025/02/11-02:02:34.476,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 682, session:0x0000000200000001, command:4
+2025/02/11-02:02:34.476,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:34.476,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 682, session:0x0000000200000001, command:4
+2025/02/11-02:02:39.490,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 683
+2025/02/11-02:02:39.490,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 683, session:0x0000000200000001, command:4
+2025/02/11-02:02:39.490,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:39.490,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 683, session:0x0000000200000001, command:4
+2025/02/11-02:02:44.479,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 684
+2025/02/11-02:02:44.479,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 684, session:0x0000000200000001, command:4
+2025/02/11-02:02:44.479,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:44.479,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 684, session:0x0000000200000001, command:4
+2025/02/11-02:02:49.471,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 685
+2025/02/11-02:02:49.471,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 685, session:0x0000000200000001, command:4
+2025/02/11-02:02:49.471,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:49.471,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 685, session:0x0000000200000001, command:4
+2025/02/11-02:02:54.486,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 686
+2025/02/11-02:02:54.486,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 686, session:0x0000000200000001, command:4
+2025/02/11-02:02:54.486,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:54.486,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 686, session:0x0000000200000001, command:4
+2025/02/11-02:02:59.490,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 687
+2025/02/11-02:02:59.490,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 687, session:0x0000000200000001, command:4
+2025/02/11-02:02:59.490,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:02:59.490,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 687, session:0x0000000200000001, command:4
+2025/02/11-02:03:04.479,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 688
+2025/02/11-02:03:04.479,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 688, session:0x0000000200000001, command:4
+2025/02/11-02:03:04.479,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:04.479,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 688, session:0x0000000200000001, command:4
+2025/02/11-02:03:09.477,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 689
+2025/02/11-02:03:09.477,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 689, session:0x0000000200000001, command:4
+2025/02/11-02:03:09.477,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:09.477,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 689, session:0x0000000200000001, command:4
+2025/02/11-02:03:14.483,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 690
+2025/02/11-02:03:14.483,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 690, session:0x0000000200000001, command:4
+2025/02/11-02:03:14.483,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:14.483,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 690, session:0x0000000200000001, command:4
+2025/02/11-02:03:19.485,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 691
+2025/02/11-02:03:19.485,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 691, session:0x0000000200000001, command:4
+2025/02/11-02:03:19.485,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:19.485,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 691, session:0x0000000200000001, command:4
+2025/02/11-02:03:24.481,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 692
+2025/02/11-02:03:24.481,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 692, session:0x0000000200000001, command:4
+2025/02/11-02:03:24.481,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:24.481,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 692, session:0x0000000200000001, command:4
+2025/02/11-02:03:29.484,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 693
+2025/02/11-02:03:29.484,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 693, session:0x0000000200000001, command:4
+2025/02/11-02:03:29.484,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:29.484,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 693, session:0x0000000200000001, command:4
+2025/02/11-02:03:34.483,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 694
+2025/02/11-02:03:34.483,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 694, session:0x0000000200000001, command:4
+2025/02/11-02:03:34.483,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:34.483,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 694, session:0x0000000200000001, command:4
+2025/02/11-02:03:39.488,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 695
+2025/02/11-02:03:39.488,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 695, session:0x0000000200000001, command:4
+2025/02/11-02:03:39.488,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:39.488,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 695, session:0x0000000200000001, command:4
+2025/02/11-02:03:44.478,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 696
+2025/02/11-02:03:44.478,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 696, session:0x0000000200000001, command:4
+2025/02/11-02:03:44.478,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:44.478,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 696, session:0x0000000200000001, command:4
+2025/02/11-02:03:49.474,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 697
+2025/02/11-02:03:49.474,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 697, session:0x0000000200000001, command:4
+2025/02/11-02:03:49.474,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:49.474,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 697, session:0x0000000200000001, command:4
+2025/02/11-02:03:54.482,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 698
+2025/02/11-02:03:54.482,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 698, session:0x0000000200000001, command:4
+2025/02/11-02:03:54.482,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:54.482,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 698, session:0x0000000200000001, command:4
+2025/02/11-02:03:59.483,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 699
+2025/02/11-02:03:59.483,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 699, session:0x0000000200000001, command:4
+2025/02/11-02:03:59.483,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:03:59.483,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 699, session:0x0000000200000001, command:4
+2025/02/11-02:04:04.479,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 700
+2025/02/11-02:04:04.479,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 700, session:0x0000000200000001, command:4
+2025/02/11-02:04:04.479,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:04:04.479,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 700, session:0x0000000200000001, command:4
+2025/02/11-02:04:09.471,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 701
+2025/02/11-02:04:09.471,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 701, session:0x0000000200000001, command:4
+2025/02/11-02:04:09.471,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:04:09.471,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 701, session:0x0000000200000001, command:4
+2025/02/11-02:04:14.487,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 702
+2025/02/11-02:04:14.487,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 702, session:0x0000000200000001, command:4
+2025/02/11-02:04:14.487,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:04:14.487,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 702, session:0x0000000200000001, command:4
+2025/02/11-02:04:19.493,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 703
+2025/02/11-02:04:19.493,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 703, session:0x0000000200000001, command:4
+2025/02/11-02:04:19.493,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:04:19.493,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 703, session:0x0000000200000001, command:4
+2025/02/11-02:04:24.480,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 704
+2025/02/11-02:04:24.480,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 704, session:0x0000000200000001, command:4
+2025/02/11-02:04:24.480,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:04:24.480,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 704, session:0x0000000200000001, command:4
+2025/02/11-02:04:29.482,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 705
+2025/02/11-02:04:29.482,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 705, session:0x0000000200000001, command:4
+2025/02/11-02:04:29.482,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:04:29.482,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 705, session:0x0000000200000001, command:4
+2025/02/11-02:04:34.481,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 706
+2025/02/11-02:04:34.481,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 706, session:0x0000000200000001, command:4
+2025/02/11-02:04:34.481,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:04:34.481,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 706, session:0x0000000200000001, command:4
+2025/02/11-02:04:39.480,ThreadFreePacketPump.cpp,244,(debug),[packet-pump], post, 707
+2025/02/11-02:04:39.480,ThreadFreePacketPump.cpp,138,(debug),[packet-pump], handle start, 707, session:0x0000000200000001, command:4
+2025/02/11-02:04:39.480,LobbyDPacketHandler.cpp,293,(debug),[lobbyd], 0x0000000200000001, 0, recv ok, UpdateWorldInfoListNotify, worldCount:1
+2025/02/11-02:04:39.480,ThreadFreePacketPump.cpp,144,(debug),[packet-pump], handle end, 707, session:0x0000000200000001, command:4
+2025/02/11-02:04:42.582,LobbyDChannel.cpp,128,(debug),[channel], 0x0000000200000001, close
+2025/02/11-02:04:42.582,LobbyDChannel.cpp,132,(debug),[channel], 0x0000000200000001, disable service
+2025/02/11-02:04:42.582,LobbyDChannel.cpp,140,(debug),[channel], 0x0000000200000001, try reconnect
+2025/02/11-02:04:42.582,Session.cpp,515,(debug),[session], trying to reconnect after 5000 msec, id:200000001, this:0000000003010000, addr:(192.168.1.8:21801)
+2025/02/11-02:04:42.582,Session.cpp,694,(debug),[session], close called; don't remove session, id:200000001, this:0000000003010000, state:4
